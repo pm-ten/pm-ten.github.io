@@ -12,8 +12,8 @@
     <script>
         var language = (navigator.language || navigator.userLanguage).substring(0, 2).toLowerCase();
         switch (language) {
-            case 'it': location.href = "{{ 'it' | relative_url }}";
-            default: location.href = "{{ 'en' | relative_url }}";
+            case 'it': location.href = "/it";
+            default: location.href = "/en";
         }
     </script>
 </body>
