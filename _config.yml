@@ -1,9 +1,9 @@
 title: PM_TEN
 description: PM_TEN web site
 domain: pm10-ambiente.com
-url: https://www.pm10-ambiente.com
+url: https://pm-ten.github.io/
 baseurl: /
-repository: https://github.com/pm-ten/pm10-ambiente.github.io
+repository: https://github.com/pm-ten/pm-ten.github.io
 
 date_format: "ordinal"
 
