@@ -13,10 +13,4 @@ group :jekyll_plugins do
   gem 'jemoji'
 end
 
-group :development do
-  gem 'rubocop'
-  gem 'html-proofer'
-  gem 'dotenv'
-end
-
 gem "webrick", "~> 1.8"
