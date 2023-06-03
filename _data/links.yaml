@@ -1,0 +1,202 @@
+# Links
+categories:
+  -
+    key: c0
+    title:
+      en: "Collaborations"
+      it: "Collaborazioni"
+  -
+    key: c1
+    title:
+      en: "Useful Links"
+      it: "Link utili"
+links:
+  -
+    category: c0
+    url: "http://labfisa.ge.infn.it/Joomla/index.php?lang=it"
+    title:
+      en: "Labfisa-Unige"
+      it: "Labfisa-Unige"
+    description:
+      en: "Environmental Physics Laboratory - Department of Phyisics of University of Genoa"
+      it: "Laboratorio di Fisica Ambientale - Dipartimento di Fisica dell&#039;Università di Genova"
+  -
+    category: c0
+    url: "http://ambiente.fisica.unimi.it/index.htm"
+    title:
+      en: "Department of Physics - University of Milan"
+      it: "Dipartimento di Fisica - Università di Milano "
+    description:
+      en: "Environmental Physics Group  - Department of Physics of the Univesity of Milan"
+      it: "Gruppo di Fisica dell’Ambiente - Dipartimento di Fisica dell&#039;Università di Milano"
+  -
+    category: c0
+    url: "http://labec.fi.infn.it/"
+    title:
+      en: "LABEC"
+      it: "LABEC"
+    description:
+      en: "Laboratory of Nuclear Techniques for cultural heritage in Florence"
+      it: "Laboratorio di Tecniche Nucleari per i Beni Culturali - Firenze"
+  -
+    category: c0
+    url: "http://www.lenviros.it/ita/duo.php"
+    title:
+      en: "LEnviroS,  Sustainable solutions."
+      it: "LEnviroS,  Sustainable solutions."
+    description:
+      en: "Spin-off company of the University of Bari"
+      it: "Spin-off dell’Università degli Studi di Bari"
+  -
+    category: c0
+    url: "http://www.arcosolutions.eu/index.php"
+    title:
+      en: "ARCO SOLUTIONS, environment research consulting &amp; sustainable solutions"
+      it: "ARCO SOLUTIONS, ambiente ricerca consulenza &amp; soluzioni sostenibili"
+    description:
+      en: "Spin-off company of the University of Trieste"
+      it: "Spin-off dell’Università degli Studi di Trieste"
+  -
+    category: c0
+    url: "http://www.dicat.unige.it/besio/Meteo/meteo.php"
+    title:
+      en: "MeteOcean-Unige"
+      it: "MeteOcean-Unige"
+    description:
+      en: "Meteo-marine modeling research group of Departmente of Civil Chemical and Environmental Engineering of the University of Genoa"
+      it: "Gruppo di ricerca di modellistica meteo-marina del Dipartimento di Ingegneria Civile, Chimica e Ambientale (DICCA) dell&#039;Università degli Studi di Genova "
+  -
+    category: c0
+    url: "http://alpsliguria.eu/it/"
+    title:
+      en: "ALPS Consortium (EEN)"
+      it: "Consorzio ALPS (EEN)"
+    description:
+      en: "ALPS is one of the five inter-regional italian consortia which manages the Enterprise Europe Network. Terriitorial coverage comprises the Nort-West area of Italy (in particular Liguria, Piemonte and Valle d&#039;Aosta)  "
+      it: "ALPS è uno dei cinque consorzi interregionali esistenti in Italia responsabile della gestione della Rete Enterprise Europe Network. Rivolto al tessuto imprenditoriale del Nord-Ovest italiano, ALPS copre il territorio di Liguria, Piemonte e Valle d’Aosta."
+  -
+    category: c1
+    url: "http://www.iasaerosol.it/it/"
+    title:
+      en: "IAS"
+      it: "IAS"
+    description:
+      en: "Italian Aerosol Society"
+      it: "Società italiana di Aerosol"
+  -
+    category: c1
+    url: "http://www.wrf-model.org/index.php"
+    title:
+      en: "WRF"
+      it: "WRF "
+    description:
+      en: "Meteorological non-hydrostatic model WRF"
+      it: "Modello meteorologico non idrostatico WRF"
+  -
+    category: c1
+    url: "http://www.camx.com/"
+    title:
+      en: "CAMx"
+      it: "CAMx"
+    description:
+      en: "Eulerian photochemical dispersion model CAMx"
+      it: "Modello fotochimico euleriano CAMx"
+  -
+    category: c1
+    url: "http://gains-it.bologna.enea.it/gains/IT/index.login"
+    title:
+      en: "GAINS- Italy"
+      it: "GAINS- Italy"
+    description:
+      en: "Link to the web interface of GAINS model (Greenhouse Gas and Air Pollution Interactions and Synergies)"
+      it: "Link al portale del modello GAINS (Greenhouse Gas and Air Pollution Interactions and Synergies) "
+  -
+    category: c1
+    url: "http://www.emep.int/"
+    title:
+      en: "EMEP"
+      it: "EMEP"
+    description:
+      en: "Cooperatingo program for monitoring and evaluation of the long-range transmissions of air pollutants in Europe"
+      it: "Programma di cooperazione internazionale per il monitoraggio e il trasporto a lungo raggio di materiali inquinanti"
+  -
+    category: c1
+    url: "http://www.epa.gov/"
+    title:
+      en: "EPA"
+      it: "EPA"
+    description:
+      en: "Environmental Protection Agency of the USA"
+      it: "Sito istituzionale dell&#039;Agenzia per la Protezione dell&#039;Ambiente degli USA"
+  -
+    category: c1
+    url: "http://ncar.ucar.edu/"
+    title:
+      en: "NCAR"
+      it: "NCAR"
+    description:
+      en: "National Center for Atmospheric Research of the United States"
+      it: "Centro Nazionale per la Ricerca Atmosferica degli USA"
+  -
+    category: c1
+    url: "http://www.ingv.it/it/"
+    title:
+      en: "INGV"
+      it: "INGV"
+    description:
+      en: "National Institute of Geophysics and Volcanology"
+      it: "Sito dell&#039;Istituito Nazionale di Geofisica e Vulcanologia italiano"
+  -
+    category: c1
+    url: "http://www.isprambiente.gov.it/it/ispra"
+    title:
+      en: "ISPRA"
+      it: "ISPRA"
+    description:
+      en: "Institute for the Research on Environmental Protection"
+      it: "Istituto Superiore per la Protezione e la Ricerca Ambientale"
+  -
+    category: c1
+    url: "http://ec.europa.eu/dgs/jrc/index.cfm"
+    title:
+      en: "JRC"
+      it: "JRC"
+    description:
+      en: "Joint Research Centre"
+      it: "Joint Research Centre - Il centro di ricerca della commissione europea"
+  -
+    category: c1
+    url: "http://www.arpal.gov.it/"
+    title:
+      en: "ARPAL"
+      it: "ARPAL"
+    description:
+      en: "Regional Environment Protection Agency of Liguria Region"
+      it: "Agenzia Regionale per la Protezione dell&#039;Ambiente Liguria"
+  -
+    category: c1
+    url: "http://www.noaa.gov"
+    title:
+      en: "NOAA"
+      it: "NOAA"
+    description:
+      en: "National Oceanic and Administration Administration, USA"
+      it: "National Oceanic and Administration Administration, USA"
+  -
+    category: c1
+    url: "http://www.ncep.noaa.gov/"
+    title:
+      en: "NCEP"
+      it: "NCEP"
+    description:
+      en: "National Centers for Environmental Prediction, USA"
+      it: "National Centers for Environmental Prediction, USA"
+  -
+    category: c1
+    url: "http://www.ecmwf.int"
+    title:
+      en: "ECMWF"
+      it: "ECMWF"
+    description:
+      en: "European Centre for Medium-Range Weather Forecasts"
+      it: "Centro Europeo per le Previsioni Meteorologiche a Medio termine"

@@ -1,0 +1,19 @@
+---
+layout: default
+---
+{%- assign service = site.data.services | where: "key", page.key | first -%}
+{%- assign pageTitle = service.title[page.language] -%}
+{%- assign subSectionName = site.data.labels.section_title_services[page.language] -%}
+{%- include breadcrumbs.html pageTitle=pageTitle subSectionName=subSectionName subSectionUrl="#services" %}
+<section id="portfolio-details" class="portfolio-details">
+  <div class="container" data-aos="fade-up">
+      <div class="row gy-4">        
+          <div class="col-lg-8">
+            {{ content }}
+          </div>
+          <div class="col-lg-4">
+            <img src="{{ service.image | relative_url }}" class="img-fluid" alt="">
+          </div>
+      </div>
+  </div>
+</section>

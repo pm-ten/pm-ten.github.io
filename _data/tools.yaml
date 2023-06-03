@@ -1,0 +1,216 @@
+# Tools
+categories:
+  -
+    key: c0
+    title:
+      en: "Laboratory analysis"
+      it: "Analisi di laboratorio"
+  -
+    key: c1
+    title:
+      en: "Numerical simulation models"
+      it: "Modelli numerici di simulazione"
+  -
+    key: c2
+    title:
+      en: "Field Equipment"
+      it: "Strumentazione da campo"
+tools:
+  -
+    image: media/tools/Ottico.JPG
+    category: c0
+    title:
+      en: "Absorbance and concentration analyzer of Black Carbon in atmospheric particulate samples"
+      it: "Analizzatore di assorbanza e di concentrazione di Black Carbon in campioni di particolato atmosferico"
+    description:
+      en: "Original optical system for non-destructive determination of Black Carbon collected on filters of sequential samplers, streakers and multi-stage inertial impactor."
+      it: "Sistema ottico originale  per la determinazione non distruttiva del Black Carbon raccolto su filtri di campionatori sequenziali, streakers e impattori inerziali multi-stadio."
+  -
+    image: media/tools/Sunset.png
+    category: c0
+    title:
+      en: "Alpha spectrometer"
+      it: "Analizzatore di Carbonio Organico (OC) ed Elementare (EC) presenti in campioni di particolato atmosferico"
+    description:
+      en: "Alpha spectrometer in vacuum for the detection of radioactive isotopes in thin samples and activity measures."
+      it: "Analizzatore termo-ottico di TOC/OC/EC - Sunset Laboratory."
+  -
+    image: media/tools/IMG_6377.JPG
+    category: c0
+    title:
+      en: "Analytical balance"
+      it: "Bilancia analitica"
+    description:
+      en: "Sartorius MC5 Analytical Balance placed in air-conditioned room (T = 20 ° C, RH = 50%) for the determination of the concentration of airborne particles according to the standards of the European Community and/or EPA. Sensitivity 1 microgram."
+      it: "Bilancia analitica Sartorius MC5 posta in locale climatizzato  (T=20°C; U.R. = 50%) per la determinazione della concentrazione di particolato atmosferico secondo gli standard della Comunità Europea e/o EPA. Sensibilità 1 microgrammo."
+  -
+    image: media/tools/Cromatografo.jpg
+    category: c0
+    title:
+      en: "Cromatograph - Thermo Fisher Scientific"
+      it: "Cromatografo - Thermo Fisher Scientific"
+    description:
+      en: "Chromatograph for anions, cations and sugars (included Levoglucosan) search in liquid samples"
+      it: "Cromatografo per ricerca di anioni, cationi e zuccheri (tra cui Levoglucosano) in soluzioni liquide"
+  -
+    image: media/tools/XRF.JPG
+    category: c0
+    title:
+      en: "Energy dispersive X-ray fluorescence spectrometer  (ED-XRF)."
+      it: "Spettrometro a fluorescenza X a dispersione di energia (ED-XRF)"
+    description:
+      en: "Energy dispersive X-ray fluorescence spectrometer (ED2000, Oxford Instruments) for ED-XRF analysis in vacuum, air, and inert atmosphere."
+      it: "Spettrometro a fluorescenza X a dispersione di energia (ED2000, Oxford Instruments) per analisi ED-XRF in vuoto, aria e atmosfera inerte. "
+  -
+    image: media/tools/alfa.jpg
+    category: c0
+    title:
+      en: "Gamma spectrometer"
+      it: "Spettrometro alfa"
+    description:
+      en: "Low background Ge(HP) detector for the detection of radioactive isotopes in solid and liquid samples and activity measures."
+      it: "Spettrometro alfa in vuoto per l’individuazione di isotopi radioattivi in campioni sottili e misura della attività."
+  -
+    image: media/tools/Gamma.jpg
+    category: c0
+    title:
+      en: "Organic Carbon (OC) and Elemental Carbon (EC) analyzer in atmospheric particulate samples"
+      it: "Spettrometro gamma"
+    description:
+      en: "Thermo-optical analyzer of TOC/OC/EC by Sunset Laboratory."
+      it: "Rivelatore Ge(HP) a basso fondo per l’individuazione di isotopi radioattivi in campioni solidi e liquidi e misura della attività."
+  -
+    image: media/tools/mol.gif
+    category: c1
+    title:
+      en: "ABLE"
+      it: "ABLE"
+    description:
+      en: "Meteorological preprocessor for atmospheric boundary layer parameters computation"
+      it: "Preprocessore meteorologico per il calcolo dei parametri caratterizzanti lo strato limite atmosferico"
+  -
+    image: media/tools/2.jpg
+    category: c1
+    title:
+      en: "ADMS 4.2"
+      it: "ADMS 4.2"
+    description:
+      en: "Gaussian dispersion model"
+      it: "Modello dispersivo gaussiano"
+  -
+    image: media/tools/unavailable.gif
+    category: c1
+    title:
+      en: "CALPUFF"
+      it: "CALPUFF"
+    description:
+      en: "Non-steady state puff Lagrangean model"
+      it: "Modello di dispersione non stazionario Lagrangiano"
+  -
+    image: media/tools/006.gif
+    category: c1
+    title:
+      en: "CAMx"
+      it: "CAMx"
+    description:
+      en: "Eulerian photochemical model"
+      it: "Modello fotochimico euleriano"
+  -
+    image: media/tools/NEMO_ss_MAY.gif
+    category: c1
+    title:
+      en: "NEMO"
+      it: "NEMO"
+    description:
+      en: "Preprocessor for natural emissions computation"
+      it: "Preprocessore per il calcolo delle emissioni naturali"
+  -
+    image: media/tools/torta.png
+    category: c1
+    title:
+      en: "PMF2"
+      it: "PMF2"
+    description:
+      en: "Receptor model for air pollution source apportionment"
+      it: "Modello a recettore per l&#039;apporzionamento delle sorgenti di inquinanti atmosferici"
+  -
+    image: media/tools/SMOKE_NOx_Feb06.gif
+    category: c1
+    title:
+      en: "SMOKE"
+      it: "SMOKE"
+    description:
+      en: "Emission preprocessor"
+      it: "Preprocessore emissivo"
+  -
+    image: media/tools/Ligurian_Hs_tmp_006.png
+    category: c1
+    title:
+      en: "WAVEWATCH III"
+      it: "WAVEWATCH III"
+    description:
+      en: "Third-generation spectral model for the simulation of ocean waves dynamics"
+      it: "Modello spettrale di terza generazione per la simulazione della dinamica del moto ondoso"
+  -
+    image: media/tools/winds_WINDS+oro_2012092509.gif
+    category: c1
+    title:
+      en: "WINDS"
+      it: "WINDS"
+    description:
+      en: "Diagnostic mass-consistent model"
+      it: "Modello diagnostico a conservazione di massa"
+  -
+    image: media/tools/Europe_SLP_24.gif
+    category: c1
+    title:
+      en: "WRF"
+      it: "WRF"
+    description:
+      en: "Non-hydrostatic numerical weather prediction model"
+      it: "Modello di previsione meteorologica non idrostatico"
+  -
+    image: media/tools/Xportable.jpg
+    category: c2
+    title:
+      en: "Optical Particle Counter (OPC)"
+      it: "Analizzatore portatile in fluorescenza X"
+    description:
+      en: "Grimm 1.108 (Environcheck version) optical particle counter: 32 size classes (0.25 -32 ?m size range)."
+      it: "Spettrometro a fluorescenza X a dispersione di energia portatile per analisi composizionali in situ. Utilizzabile in luoghi pubblici."
+  -
+    image: media/tools/WP_001000.jpg
+    category: c2
+    title:
+      en: "Particulate matter special samplers"
+      it: "Campionatori per la raccolta del particolato atmosferico, frazioni PM10, PM2.5, PM1"
+    description:
+      en: "Continuous two-stage sampling with hourly resolution (Streaker sampler). 13-stage inertial impactor (0.01 - 10 micron), NanoMOUDI."
+      it: "Campionatori sequenziali a norma DM 155/2010 TCR-Tecora equipaggiati con teste di prelievo PM10, PM2.5 e PM1."
+  -
+    image: media/tools/Nanomoudi.jpg
+    category: c2
+    title:
+      en: "PM10, PM2.5, PM 1 samplers for atmospheric particulate matter sequential sampling"
+      it: "Campionatori speciali per particolato atmosferico"
+    description:
+      en: "Sequential PM samplers (by TCR-Tecora) according to the DM 155/2010 equipped with PM10/2.5/1 sampling heads."
+      it: "Campionatori continui a due stadi con risoluzione oraria (streaker sampler). Impattore inerziale a 13 stadi (0.01 - 10 micron) nanoMOUDI."
+  -
+    image: media/tools/Grimm 1.108.jpg
+    category: c2
+    title:
+      en: "Portable X-ray Fluorescence analyzer"
+      it: "Contatore ottico di particelle"
+    description:
+      en: "Energy dispersive X Ray fluorescence portable spectrometer for the in situ detection of elemental composition. Can be used in public places."
+      it: "Contatore/classificatore di particelle Grimm  1.108 Environcheck: 32 classi dimensionali tra 0.25 e 32 micron."
+  -
+    image: media/tools/aethalometer.JPG
+    category: c2
+    title:
+      en: "Real time sampler for the determination of Black Carbon concentration"
+      it: "Misuratore in tempo reale di concentrazione di Black Carbon"
+    description:
+      en: "Magee Scientific two-wavelength Aethalometer optical sampler. "
+      it: "Misuratore ottico Mageesci (Aethalometro) di concentrazione di Black Carbon a due lunghezze d&#039;onda."

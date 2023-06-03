@@ -1,0 +1,33 @@
+---
+layout: default
+---
+{%- assign subSectionName = site.data.labels.section_title_resources[page.language] -%}
+{%- include breadcrumbs.html pageTitle=page.title subSectionName=subSectionName subSectionUrl="#resources" %}
+<section id="portfolio" class="portfolio" data-aos="fade-up">
+  <div class="container">        
+    <div class="section-header">
+      <p>Non hic nulla eum consequatur maxime ut vero memo vero totam officiis pariatur eos dolorum sed fug dolorem est possimus esse quae repudiandae. Dolorem id enim officiis sunt deserunt esse soluta consequatur quaerat</p>
+    </div>        
+  </div>
+  <div class="container-fluid" data-aos="fade-up" data-aos-delay="200">
+    <div class="portfolio-isotope" data-portfolio-filter="*" data-portfolio-layout="masonry" data-portfolio-sort="original-order">
+      <ul class="portfolio-flters">
+        <li data-filter="*" class="filter-active">All</li>
+        {%- for category in site.data.tools.categories %}
+        <li data-filter=".filter-{{ category.key}}">{{ category.title[page.language] }}</li>
+        {%- endfor %}
+      </ul>
+      <div class="row g-0 portfolio-container">
+        {%- for tool in site.data.tools.tools %}
+        <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-{{ tool.category }}">
+          <img src="{{ tool.image | relative_url }}" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>{{ tool.title[page.language] }}</h4>
+            <a href="{{ tool.image | relative_url }}" title="{{ tool.title[page.language] }}" description="{{ tool.description[page.language] }}" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+          </div>
+        </div>
+        {%- endfor %}
+      </div>
+    </div>
+  </div>
+</section>

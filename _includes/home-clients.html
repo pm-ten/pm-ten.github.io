@@ -1,0 +1,18 @@
+<section id="clients" class="clients">
+  <div class="container" data-aos="zoom-out">
+    <div class="section-header">
+      <h2>{{ site.data.labels.section_title_customers[page.language] }}</h2>
+    </div>
+    <div class="clients-slider swiper">
+      <div class="swiper-wrapper align-items-center">
+        {%- for customer in site.data.customers %}
+        <div class="swiper-slide">
+          {%- if customer.url and customer.url != "" -%}<a href="{{ customer.url }}" target="_blank">{%- endif -%}
+          <img src="{{ customer.image | relative_url }}" class="img-fluid" alt="{{ customer.title }}">
+          {%- if customer.url -%}</a>{%- endif -%}
+          </div>
+        {%- endfor %}
+      </div>
+    </div>
+  </div>
+</section>

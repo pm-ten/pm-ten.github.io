@@ -1,0 +1,21 @@
+---
+layout: base
+---
+{%- include home-hero.html %}
+<main id="main">
+    {%- include home-features.html %}
+    {%- include home-cta.html %}
+    {%- include home-news.html %}
+    {%- include home-featured-services.html %}
+    {%- assign focusInclude = 'home-focus-' | append: page.language | append: '.html' -%}
+    {%- include {{ focusInclude }} %}
+    {%- include home-people.html %}
+    {%- include home-clients.html %}
+    {%- include home-contacts.html %}
+    {%- comment %}
+        {%- include home-about.html %}
+        {%- include home-services.html %}
+        {%- include home-faq.html %}
+        {%- include home-portfolio.html %}
+    {%- endcomment %}
+</main> 

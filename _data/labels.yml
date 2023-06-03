@@ -1,0 +1,57 @@
+section_title_services: 
+  en: Our Services
+  it: I Nostri Servizi
+section_title_news: 
+  en: Latest News
+  it: Ultime Notizie
+section_title_resources: 
+  en: Resources
+  it: Risorse
+section_title_aboutus: 
+  en: About Us
+  it: Chi Siamo
+section_title_team: 
+  en: Our Team
+  it: La Nostra Squadra
+section_title_customers: 
+  en: Our Customers
+  it: I Nostri Clienti
+section_title_contactus: 
+  en: Contact Us
+  it: Contattaci
+section_title_links: 
+  en: Useful Links
+  it: Link Utili
+read_more:
+  en: Read More
+  it: Leggi Di Più
+location:
+  en: Location
+  it: Indirizzo
+email:
+  en: Email
+  it: Email
+call:
+  en: Call
+  it: Chiamaci
+home:
+  en: Home
+  it: Home
+all_rights_reserved:
+  en: All Rights Reserved
+  it: Tutti i diritti sono riservati
+role:
+  en: Role
+  it: Ruolo
+phone:
+  en: Phone
+  it: Telefono
+mobile:
+  en: Mobile
+  it: Cellulare
+secondary_email:
+  en: Alternate Email
+  it: Email Alternativa
+download:
+  en: Download
+  it: Scarica

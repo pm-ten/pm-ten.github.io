@@ -1,0 +1,99 @@
+title: PM_TEN
+description: PM_TEN web site
+domain: pm10-ambiente.com
+url: https://www.pm10-ambiente.com
+baseurl: /
+repository: https://github.com/pm-ten/pm10-ambiente.github.io
+
+date_format: "ordinal"
+
+# Use the following plug-ins
+plugins:
+  - jekyll-redirect-from # Set up custom redirects
+  - jekyll-seo-tag
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jemoji # Github flavored emoji
+  
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - NOTES.md
+  - vendor
+  - scripts
+  - temp
+  - .gitignore
+  - .jekyll-cache/
+
+# Process these folders
+include: ["_pages", "_services", "_people", "_news"]
+
+# Apply defaults based on path
+defaults:
+-
+  scope:
+    path: '_pages/en'
+  values:
+    language: 'en'
+    permalink: 'en/:basename'
+-
+  scope:
+    path: '_pages/it'
+  values:
+    language: 'it'
+    permalink: 'it/:basename'
+-
+  scope:
+    path: '_services/en'
+  values:
+    layout: service
+    language: 'en'
+    permalink: 'en/services/:basename'
+    type: 'service'
+-
+  scope:
+    path: '_services/it'
+  values:
+    layout: service
+    language: 'it'
+    permalink: 'it/servizi/:basename'
+    type: 'service'
+-
+  scope:
+    path: '_people/en'
+  values:
+    layout: person
+    language: 'en'
+    permalink: 'en/people/:basename'
+    type: 'person'
+-
+  scope:
+    path: '_people/it'
+  values:
+    layout: person
+    language: 'it'
+    permalink: 'it/persone/:basename'
+    type: 'person'
+-
+  scope:
+    path: '_news/en'
+  values:
+    layout: news
+    language: 'en'
+    permalink: 'en/news/:basename'
+    type: 'news'
+-
+  scope:
+    path: '_news/it'
+  values:
+    layout: news
+    language: 'it'
+    permalink: 'it/news/:basename'
+    type: 'news'
+
+encoding: "UTF-8"
+
+whitelist: 
+  - jekyll-redirect-from

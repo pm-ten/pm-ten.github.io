@@ -1,0 +1,22 @@
+-
+  key: "downloads"
+  title:
+    en: Downloads
+    it: Downloads
+  abstract:
+    en: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    it: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+  icon: bi-file-earmark-arrow-down-fill
+  sort: 1
+-
+  key: "tools"
+  title:
+    en: Equipment
+    it: Strumenti
+  abstract:
+    en: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    it: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+  icon: bi-gear-wide-connected
+  sort: 2
+
+

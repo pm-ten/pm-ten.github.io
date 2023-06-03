@@ -1,0 +1,26 @@
+---
+layout: default
+---
+{%- assign subSectionName = site.data.labels.section_title_news[page.language] -%}
+{%- include breadcrumbs.html pageTitle=page.title subSectionName=subSectionName subSectionUrl="#news" %}
+<section id="blog" class="blog">
+  <div class="container" data-aos="fade-up">
+      <div class="row gy-4">        
+          <div class="col-lg-8">
+            <article class="blog-details">
+              <div class="meta-top">
+                <ul>
+                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i><time datetime="{{ page.date }}">{%- include date.html date=page.date language=page.language -%}</time></li>
+                </ul>
+              </div>
+              <div class="content">
+                {{ content }}
+              </div>
+            </article>
+          </div>
+          <div class="col-lg-4">
+            <img src="{{ page.image | relative_url }}" class="img-fluid" alt="">
+          </div>
+      </div>
+  </div>
+</section>

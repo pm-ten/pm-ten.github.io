@@ -1,0 +1,20 @@
+<header id="header" class="header fixed-top" data-scrollto-offset="0">
+  <div class="container-fluid d-flex align-items-center justify-content-between">
+    <a href="{{ page.language | relative_url }}" class="logo d-flex align-items-center scrollto me-auto me-lg-0">
+      <img src="{{ 'media/assets/img/logo-wide.png' | relative_url }}" alt="" class="img-fluid">
+    </a>
+    <nav id="navbar" class="navbar">
+      <ul>
+        {%- for navLink in site.data.navigation %}
+        <li><a class="nav-link scrollto {%- if navLink.active %}active{%- endif %}" href="{{ page.language | append: navLink.url | relative_url }}">{{ navLink.title[page.language] }}</a></li>
+        {%- endfor %}
+        {%- assign additionalLanguages = site.data.languages | where_exp: "item", "item.slug != page.language" %}
+        {%- for language in additionalLanguages %}
+          {%- assign localizedPage = site.pages | where: "key", page.key | where: "language", language.slug | first %}
+          <li><a href='{{ localizedPage.url | relative_url }}'><img src="{{ language.image | relative_url }}"></a></li>
+        {%- endfor %}
+      </ul>
+      <i class="d-lg-none bi bi-list mobile-nav-toggle"></i>
+    </nav>
+  </div>
+</header>

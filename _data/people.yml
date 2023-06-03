@@ -1,0 +1,72 @@
+- key: people-brotto
+  title: Paolo Brotto
+  role: 
+    en: ceo/cto
+    it: ceo/cto
+  location: PM_TEN sede operativa c/o Università degli Studi di Genova. Dipartimento di Fisica. Via Dodecaneso 33, 16146 Genova, Italy
+  phone: +39 0103536556
+  mobile: +39 3403487799
+  mail: paolo.brotto@pm10-ambiente.it
+  secondary_mail: brotto@fisica.unige.it  
+  image: media/team/people-brotto.jpg
+  sort: 1
+- key: people-prati
+  title: Paolo Prati
+  role: 
+    en: president of the management board
+    it: presidente del cda
+  location: Università degli Studi di Genova. Dipartimento di Fisica. Via Dodecaneso 33, 16146 Genova
+  phone: +39 0103536439
+  mobile: +39 3493951491
+  mail: paolo.prati@pm10-ambiente.it
+  secondary_mail: prati@ge.infn.it
+  image: media/team/people-prati.jpg
+  sort: 2
+- key: people-mazzino
+  title: Andrea Mazzino
+  role: 
+    en: founder and member of the management board
+    it: socio fondatore e membro del cda
+  location: Università degli Studi di Genova - Dipartimento di Ingegneria Chimica Civile e Ambientale
+  phone: +39 010 353 2489
+  mobile: 
+  mail: andrea.mazzino@pm10-ambiente.it
+  secondary_mail: andrea.mazzino@unige.it 
+  image: media/team/people-mazzino.jpg
+  sort: 3
+- key: people-massabo
+  title: Dario Massabò
+  role: 
+    en: founding member
+    it: socio fondatore
+  location: Università degli Studi di Genova. Dipartimento di Fisica. Via Dodecaneso 33, 16146 Genova, Italy
+  phone: +39 0103536325
+  mobile: +39 3286369492
+  mail: Dario.Massabo@pm10-ambiente.it
+  secondary_mail: Massabo@ge.infn.it  
+  image: media/team/people-massabo.jpg
+  sort: 4
+- key: people-caponi
+  title: Lorenzo Caponi
+  role: 
+    en: lab manager
+    it: lab manager
+  location: via Dodecaneso 33, 16146 Genova
+  phone: +39 010 3536325
+  mobile: 
+  mail: lorenzo.caponi@pm10-ambiente.it
+  secondary_mail: 
+  image: media/team/people-caponi.jpg
+  sort: 5
+- key: people-santostefano
+  title: Matteo Santostefano
+  role: 
+    en: software development - it
+    it: sviluppatore software - it
+  location: Via Dodecaneso 33, 16146 Genova
+  phone: +39 0103536464
+  mobile: 
+  mail: matteo.santostefano@pm10-ambiente.it
+  secondary_mail: 
+  image: media/team/people-santostefano.jpg
+  sort: 6

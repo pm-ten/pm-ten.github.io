@@ -1,0 +1,41 @@
+<section id="contact" class="contact">
+  <div class="container">
+    <div class="section-header">
+      <h2>{{ site.data.labels.section_title_contactus[page.language] }}</h2>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row gy-5 gx-lg-5">
+      <div class="col-lg-6">
+        <div class="info">
+          <div class="info-item d-flex">
+            <i class="bi bi-geo-alt flex-shrink-0"></i>
+            <div>
+              <h4>{{ site.data.labels.location[page.language] }}:</h4>
+              <p>{{ site.data.company.address.l1 }} - {{ site.data.company.address.l2 }}</p>
+            </div>
+          </div>
+          <div class="info-item d-flex">
+            <i class="bi bi-envelope flex-shrink-0"></i>
+            <div>
+              <h4>{{ site.data.labels.email[page.language] }}:</h4>
+              <p>{{ site.data.company.mail }}</p>
+            </div>
+          </div>
+          <div class="info-item d-flex">
+            <i class="bi bi-phone flex-shrink-0"></i>
+            <div>
+              <h4>{{ site.data.labels.call[page.language] }}:</h4>
+              <p>{{ site.data.company.phone }}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="map">
+          <iframe src="{{ site.data.company.map }}" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

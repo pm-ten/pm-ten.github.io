@@ -1,0 +1,32 @@
+-
+  title:
+    en: Home
+    it: Home
+  url: /
+  active: true
+-
+  title:
+    en: Services
+    it: Servizi
+  url: /#services
+-
+  title:
+    en: News
+    it: Notizie
+  url: /#news
+-
+  title:
+    en: Resources
+    it: Risorse
+  url: /#resources
+-
+  title:
+    en: About Us
+    it: Chi Siamo
+  url: /#about-us
+-
+  title:
+    en: Contacts
+    it: Contatti
+  url: /#contact
+  
