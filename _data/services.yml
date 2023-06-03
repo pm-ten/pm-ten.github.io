@@ -10,15 +10,15 @@
   image: media/services/environmental-monitoring-and-analysis.jpg
   sort: 1
 - 
-  key: service-air-quality-monitoring
+  key: service-air-quality-modeling
   title:
-    en: Air Quality Monitoring
+    en: Air Quality Modeling
     it: Modellistica di Qualità dell'Aria
   abstract:
     en: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
     it: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
   icon: bi-fan
-  image: media/services/air-quality-monitoring.jpg
+  image: media/services/air-quality-modeling.jpg
   sort: 2
 - 
   key: service-meteo-and-marine-modeling

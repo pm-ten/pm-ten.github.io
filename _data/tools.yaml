@@ -29,7 +29,7 @@ tools:
     image: media/tools/Sunset.png
     category: c0
     title:
-      en: "Alpha spectrometer"
+      en: "Sunset Elemental Carbon (EC) and Organic Carbon analyzer in atmospheric particulate samples (NIOSH 5040, EUSAAR, Quartz,…)"
       it: "Analizzatore di Carbonio Organico (OC) ed Elementare (EC) presenti in campioni di particolato atmosferico"
     description:
       en: "Alpha spectrometer in vacuum for the detection of radioactive isotopes in thin samples and activity measures."
@@ -62,24 +62,6 @@ tools:
       en: "Energy dispersive X-ray fluorescence spectrometer (ED2000, Oxford Instruments) for ED-XRF analysis in vacuum, air, and inert atmosphere."
       it: "Spettrometro a fluorescenza X a dispersione di energia (ED2000, Oxford Instruments) per analisi ED-XRF in vuoto, aria e atmosfera inerte. "
   -
-    image: media/tools/alfa.jpg
-    category: c0
-    title:
-      en: "Gamma spectrometer"
-      it: "Spettrometro alfa"
-    description:
-      en: "Low background Ge(HP) detector for the detection of radioactive isotopes in solid and liquid samples and activity measures."
-      it: "Spettrometro alfa in vuoto per l’individuazione di isotopi radioattivi in campioni sottili e misura della attività."
-  -
-    image: media/tools/Gamma.jpg
-    category: c0
-    title:
-      en: "Organic Carbon (OC) and Elemental Carbon (EC) analyzer in atmospheric particulate samples"
-      it: "Spettrometro gamma"
-    description:
-      en: "Thermo-optical analyzer of TOC/OC/EC by Sunset Laboratory."
-      it: "Rivelatore Ge(HP) a basso fondo per l’individuazione di isotopi radioattivi in campioni solidi e liquidi e misura della attività."
-  -
     image: media/tools/mol.gif
     category: c1
     title:
@@ -98,7 +80,7 @@ tools:
       en: "Gaussian dispersion model"
       it: "Modello dispersivo gaussiano"
   -
-    image: media/tools/unavailable.gif
+    image: media/tools/calpuff.png
     category: c1
     title:
       en: "CALPUFF"
@@ -179,7 +161,7 @@ tools:
       en: "Grimm 1.108 (Environcheck version) optical particle counter: 32 size classes (0.25 -32 ?m size range)."
       it: "Spettrometro a fluorescenza X a dispersione di energia portatile per analisi composizionali in situ. Utilizzabile in luoghi pubblici."
   -
-    image: media/tools/WP_001000.jpg
+    image: media/tools/particulate_matter_special_samplers.jpg
     category: c2
     title:
       en: "Particulate matter special samplers"
@@ -188,7 +170,7 @@ tools:
       en: "Continuous two-stage sampling with hourly resolution (Streaker sampler). 13-stage inertial impactor (0.01 - 10 micron), NanoMOUDI."
       it: "Campionatori sequenziali a norma DM 155/2010 TCR-Tecora equipaggiati con teste di prelievo PM10, PM2.5 e PM1."
   -
-    image: media/tools/Nanomoudi.jpg
+    image: media/tools/pm_samplers_for_atmospheric_particulate.jpg
     category: c2
     title:
       en: "PM10, PM2.5, PM 1 samplers for atmospheric particulate matter sequential sampling"
@@ -214,3 +196,12 @@ tools:
     description:
       en: "Magee Scientific two-wavelength Aethalometer optical sampler. "
       it: "Misuratore ottico Mageesci (Aethalometro) di concentrazione di Black Carbon a due lunghezze d&#039;onda."
+  -
+    image: media/tools/sampler_for_carbon_concentration.jpg
+    category: c2
+    title:
+      en: "Innovative sampler for the determination of Black Carbon concentration"
+      it: "Misuratore innovativo di concentrazione di Black Carbon"
+    description:
+      en: "Innovative sampler for the determination of Black Carbon concentration"
+      it: "Misuratore innovativo di concentrazione di Black Carbon"

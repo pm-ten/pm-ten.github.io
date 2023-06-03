@@ -1,9 +1,9 @@
 - key: people-brotto
   title: Paolo Brotto
   role: 
-    en: ceo/cto
-    it: ceo/cto
-  location: PM_TEN sede operativa c/o Università degli Studi di Genova. Dipartimento di Fisica. Via Dodecaneso 33, 16146 Genova, Italy
+    en: Founding Member and CEO/CTO
+    it: Socio Fondatore e CEO/CTO
+  location: P.zza Soziglia 1/18b, 16123 Genova (GE)
   phone: +39 0103536556
   mobile: +39 3403487799
   mail: paolo.brotto@pm10-ambiente.it
@@ -13,8 +13,8 @@
 - key: people-prati
   title: Paolo Prati
   role: 
-    en: president of the management board
-    it: presidente del cda
+    en: Founding Member
+    it: Socio Fondatore
   location: Università degli Studi di Genova. Dipartimento di Fisica. Via Dodecaneso 33, 16146 Genova
   phone: +39 0103536439
   mobile: +39 3493951491
@@ -25,8 +25,8 @@
 - key: people-mazzino
   title: Andrea Mazzino
   role: 
-    en: founder and member of the management board
-    it: socio fondatore e membro del cda
+    en: Founding Member
+    it: Socio Fondatore
   location: Università degli Studi di Genova - Dipartimento di Ingegneria Chimica Civile e Ambientale
   phone: +39 010 353 2489
   mobile: 
@@ -37,8 +37,8 @@
 - key: people-massabo
   title: Dario Massabò
   role: 
-    en: founding member
-    it: socio fondatore
+    en: Founding Member
+    it: Socio Fondatore
   location: Università degli Studi di Genova. Dipartimento di Fisica. Via Dodecaneso 33, 16146 Genova, Italy
   phone: +39 0103536325
   mobile: +39 3286369492
@@ -49,9 +49,9 @@
 - key: people-caponi
   title: Lorenzo Caponi
   role: 
-    en: lab manager
-    it: lab manager
-  location: via Dodecaneso 33, 16146 Genova
+    en: Lab Manager
+    it: Lab Manager
+  location: P.zza Soziglia 1/18b, 16123 Genova (GE)
   phone: +39 010 3536325
   mobile: 
   mail: lorenzo.caponi@pm10-ambiente.it
@@ -61,9 +61,9 @@
 - key: people-santostefano
   title: Matteo Santostefano
   role: 
-    en: software development - it
-    it: sviluppatore software - it
-  location: Via Dodecaneso 33, 16146 Genova
+    en: Software Development - it
+    it: Sviluppatore Software - it
+  location: P.zza Soziglia 1/18b, 16123 Genova (GE)
   phone: +39 0103536464
   mobile: 
   mail: matteo.santostefano@pm10-ambiente.it
