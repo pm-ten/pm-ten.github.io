@@ -26,7 +26,7 @@ tools:
       en: "Original optical system for non-destructive determination of Black Carbon collected on filters of sequential samplers, streakers and multi-stage inertial impactor."
       it: "Sistema ottico originale  per la determinazione non distruttiva del Black Carbon raccolto su filtri di campionatori sequenziali, streakers e impattori inerziali multi-stadio."
   -
-    image: media/tools/Sunset.png
+    image: media/tools/Sunset.jpg
     category: c0
     title:
       en: "Sunset Elemental Carbon (EC) and Organic Carbon analyzer in atmospheric particulate samples (NIOSH 5040, EUSAAR, Quartz,…)"
@@ -62,7 +62,7 @@ tools:
       en: "Energy dispersive X-ray fluorescence spectrometer (ED2000, Oxford Instruments) for ED-XRF analysis in vacuum, air, and inert atmosphere."
       it: "Spettrometro a fluorescenza X a dispersione di energia (ED2000, Oxford Instruments) per analisi ED-XRF in vuoto, aria e atmosfera inerte. "
   -
-    image: media/tools/mol.gif
+    image: media/tools/mol.jpg
     category: c1
     title:
       en: "ABLE"
@@ -80,7 +80,7 @@ tools:
       en: "Gaussian dispersion model"
       it: "Modello dispersivo gaussiano"
   -
-    image: media/tools/calpuff.png
+    image: media/tools/calpuff.jpg
     category: c1
     title:
       en: "CALPUFF"
@@ -89,7 +89,7 @@ tools:
       en: "Non-steady state puff Lagrangean model"
       it: "Modello di dispersione non stazionario Lagrangiano"
   -
-    image: media/tools/006.gif
+    image: media/tools/006.jpg
     category: c1
     title:
       en: "CAMx"
@@ -98,7 +98,7 @@ tools:
       en: "Eulerian photochemical model"
       it: "Modello fotochimico euleriano"
   -
-    image: media/tools/NEMO_ss_MAY.gif
+    image: media/tools/NEMO_ss_MAY.jpg
     category: c1
     title:
       en: "NEMO"
@@ -107,7 +107,7 @@ tools:
       en: "Preprocessor for natural emissions computation"
       it: "Preprocessore per il calcolo delle emissioni naturali"
   -
-    image: media/tools/torta.png
+    image: media/tools/torta.jpg
     category: c1
     title:
       en: "PMF2"
@@ -116,7 +116,7 @@ tools:
       en: "Receptor model for air pollution source apportionment"
       it: "Modello a recettore per l&#039;apporzionamento delle sorgenti di inquinanti atmosferici"
   -
-    image: media/tools/SMOKE_NOx_Feb06.gif
+    image: media/tools/SMOKE_NOx_Feb06.jpg
     category: c1
     title:
       en: "SMOKE"
@@ -125,7 +125,7 @@ tools:
       en: "Emission preprocessor"
       it: "Preprocessore emissivo"
   -
-    image: media/tools/Ligurian_Hs_tmp_006.png
+    image: media/tools/Ligurian_Hs_tmp_006.jpg
     category: c1
     title:
       en: "WAVEWATCH III"
@@ -134,7 +134,7 @@ tools:
       en: "Third-generation spectral model for the simulation of ocean waves dynamics"
       it: "Modello spettrale di terza generazione per la simulazione della dinamica del moto ondoso"
   -
-    image: media/tools/winds_WINDS+oro_2012092509.gif
+    image: media/tools/winds_WINDS+oro_2012092509.jpg
     category: c1
     title:
       en: "WINDS"
@@ -143,7 +143,7 @@ tools:
       en: "Diagnostic mass-consistent model"
       it: "Modello diagnostico a conservazione di massa"
   -
-    image: media/tools/Europe_SLP_24.gif
+    image: media/tools/Europe_SLP_24.jpg
     category: c1
     title:
       en: "WRF"
@@ -178,15 +178,6 @@ tools:
     description:
       en: "Sequential PM samplers (by TCR-Tecora) according to the DM 155/2010 equipped with PM10/2.5/1 sampling heads."
       it: "Campionatori continui a due stadi con risoluzione oraria (streaker sampler). Impattore inerziale a 13 stadi (0.01 - 10 micron) nanoMOUDI."
-  -
-    image: media/tools/Grimm 1.108.jpg
-    category: c2
-    title:
-      en: "Portable X-ray Fluorescence analyzer"
-      it: "Contatore ottico di particelle"
-    description:
-      en: "Energy dispersive X Ray fluorescence portable spectrometer for the in situ detection of elemental composition. Can be used in public places."
-      it: "Contatore/classificatore di particelle Grimm  1.108 Environcheck: 32 classi dimensionali tra 0.25 e 32 micron."
   -
     image: media/tools/aethalometer.JPG
     category: c2
