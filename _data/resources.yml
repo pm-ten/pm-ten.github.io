@@ -4,8 +4,8 @@
     en: Downloads
     it: Downloads
   abstract:
-    en: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    it: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    en: Info and support documentation
+    it: Documenti e informazioni 
   icon: bi-file-earmark-arrow-down-fill
   sort: 1
 -
@@ -14,9 +14,9 @@
     en: Equipment
     it: Strumenti
   abstract:
-    en: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    it: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-  icon: bi-gear-wide-connected
+    en: Environmental monitoring instruments, analytical lab and software/environmental modelling
+    it: Strumenti per il monitoraggio atmosferico, laboratorio analitico e software/modelli di simulazione
+  icon: bi-tools
   sort: 2
 
 

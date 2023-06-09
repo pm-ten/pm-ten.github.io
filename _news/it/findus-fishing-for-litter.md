@@ -1,9 +1,9 @@
 ---
 key: news-findus-fishing-for-litter
 title: Findus - Fishing for Litter (con Ogyre)
-abstract: "Il contributo scientifico di PM_TEN alle campagne di Fishing for Litter realizzate da Findus con la collaborazione di Ogyre e di tutti i pescatori."
-date: 2023-05-01
-image: media/news/generic.jpg
+abstract: "Continua lo studio di classificazione dei rifiuti raccolti dai pescatori di Santa Margherita Ligure, in collaborazione con Ogyre e Findus."
+date: 2023-05-02
+image: media/news/findus-fishing-for-litter.jpg
 ---
 
 Un progetto innovativo attento ai temi ambientali e in linea con i principi dell’economia circolare. 

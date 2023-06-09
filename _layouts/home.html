@@ -4,7 +4,9 @@ layout: base
 {%- include home-hero.html %}
 <main id="main">
     {%- include home-features.html %}
-    {%- include home-cta.html %}
+    {%- comment %}
+        {%- include home-cta.html %}
+    {%- endcomment %}
     {%- include home-news.html %}
     {%- include home-featured-services.html %}
     {%- assign focusInclude = 'home-focus-' | append: page.language | append: '.html' -%}

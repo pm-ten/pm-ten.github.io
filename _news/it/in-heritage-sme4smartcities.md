@@ -1,10 +1,12 @@
 ---
 key: news-in-heritage-sme4smartcities
 title: In-Heritage (within SME4SMARTCITIES project)
-abstract: "Il progetto vincitore della challenge nell’ambito dell’iniziativa SME4SMARTCITIES (ENI CBC Med Programme)."
+abstract: "Il progetto IN-HERITAGE, vincitore della challenge lanciata nell’ambito di SME4SMARTCITIES presentato ai Rolli Days a Genova."
 date: 2023-04-01
-image: media/news/generic.jpg
+image: media/news/in-heritage-sme4smartcities.jpg
 ---
+
+Presentato in occasione dei Rolli Days a Genova il progetto IN-HERITAGE. 
 
 In collaborazione con Artys e HOPU, il progetto vincitore della challenge nell’ambito dell’iniziativa SME4SMARTCITIES (ENI CBC Med Programme). 
 

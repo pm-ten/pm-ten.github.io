@@ -12,7 +12,8 @@
             <i class="bi bi-geo-alt flex-shrink-0"></i>
             <div>
               <h4>{{ site.data.labels.location[page.language] }}:</h4>
-              <p>{{ site.data.company.address.l1 }} - {{ site.data.company.address.l2 }}</p>
+              <p>{{ site.data.company.address[page.language].l1 }}</p>
+              <p>{{ site.data.company.address[page.language].l2 }}</p>
             </div>
           </div>
           <div class="info-item d-flex">
