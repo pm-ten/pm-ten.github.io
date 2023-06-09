@@ -2,7 +2,7 @@
 key: news-in-heritage-sme4smartcities
 title: In-Heritage (within SME4SMARTCITIES project)
 abstract: "Il progetto IN-HERITAGE, vincitore della challenge lanciata nell’ambito di SME4SMARTCITIES presentato ai Rolli Days a Genova."
-date: 2023-04-01
+date: 2023-04-29
 image: media/news/in-heritage-sme4smartcities.jpg
 ---
 
