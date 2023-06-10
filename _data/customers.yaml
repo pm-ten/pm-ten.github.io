@@ -1,93 +1,181 @@
 # Customers
 -
-  image: media/customers/logo_ArchCad.jpg
-  title: "Arch_Cad - Studio Associato "
-  url: "http://archecad.com/"
+  image: media/customers/confindustria-genova.png
+  title: "Confindustria Genova"
+  url: "https://www.confindustria.ge.it/"
 -
-  image: media/customers/logo-arpa.png
-  title: "ARPA Puglia"
-  url: "http://www.arpa.puglia.it"
+  image: media/customers/unione-industriali-savona.png
+  title: "Unione Industriali della Provincia di Savona"
+  url: "https://www.uisv.it/"
 -
-  image: media/customers/logo_awscorporation.png
-  title: "AWS Corporation srl"
-  url: ""
+  image: media/customers/cogne.png
+  title: "Cogne Acciai Speciali"
+  url: "https://www.cogne.com/"
 -
-  image: media/customers/cesi-group.jpg
-  title: "CESI spa"
-  url: " http://www.cesi.it"
+  image: media/customers/findus.png
+  title: "Findus (Compagnia Surgelati Italiana SpA)"
+  url: "https://www.findus.it/"
 -
-  image: media/customers/images.jpeg
-  title: "Consiglio Nazionale delle Ricerche (CNR)"
-  url: "http://www.cnr.it"
+  image: media/customers/gns-science.png
+  title: "GNS Science"
+  url: "https://www.gns.cri.nz/"
 -
-  image: media/customers/cinfai-logo.png
-  title: "Consorzio di Fisica dell&#039;Atmosfera e dell&#039;Idrosfera (CINFAI)"
-  url: "http://www.cinfai.it"
+  image: media/customers/relife.png
+  title: "ReLife Group"
+  url: "https://relifegroup.com/"
 -
-  image: media/customers/Cons-Amb-logo.jpg
-  title: "Consulenze Ambientali SpA"
+  image: media/customers/heratech.png
+  title: "Heratech Srl"
+  url: "https://www.gruppohera.it/"
+-
+  image: media/customers/infn.png
+  title: "Istituto Nazionale di Fisica Nucleare"
+  url: "http://www.infn.it/"
+-
+  image: media/customers/era.png
+  title: "Government of Malta - Environment and Resources Authority"
+  url: "https://era.org.mt"
+-
+  image: media/customers/tuv-sud.png
+  title: "PH Srl - TUV Sud"
+  url: "https://www.tuvsud.com/"
+-
+  image: media/customers/merieux.png
+  title: "Merieux Nutrisciences Italia (Chelab Srl)"
+  url: "https://www.merieuxnutrisciences.com/"
+-
+  image: media/customers/ramboll.png
+  title: "Ramboll"
+  url: "https://www.ramboll.com"
+-
+  image: media/customers/lav.png
+  title: "L.A.V."
+  url: "https://lavrimini.com/"
+-
+  image: media/customers/agrolab.png
+  title: "Agrolab Group"
+  url: "https://www.agrolab.com/it/"
+-
+  image: media/customers/groupe-carso.png
+  title: "Groupe CARSO"
+  url: "https://www.groupecarso.com/"
+-
+  image: media/customers/ares.png
+  title: "ARES s.r.l."
+  url: "https://ares.to.it/"
+-
+  image: media/customers/source-international.png
+  title: "SOURCE International"
+  url: "https://www.source-international.org/"
+-
+  image: media/customers/ispira.png
+  title: "Groupe ISPIRA"
+  url: "https://ispira-qualite-air.fr/"
+-
+  image: media/customers/vwr.png
+  title: "VWR"
+  url: "https://www.vwr.com"
+-
+  image: media/customers/cesi.png
+  title: "CESI s.p.a."
+  url: "https://www.cesi.it"
+-
+  image: media/customers/trust-doria-pamphilj.png
+  title: "Trust Doria Pamphilj"
+  url: "https://www.doriapamphilj.it"
+-
+  image: media/customers/trusticert.png
+  title: "Trusticert s.r.l."
+  url: "http://www.trusticert.com/"
+-
+  image: media/customers/sige.png
+  title: "SIGE Srl"
+  url: "https://www.sige.ge.it"
+-
+  image: media/customers/waterlife.png
+  title: "Water & Life Lab s.r.l."
+  url: "https://www.waterlifelab.it"
+-
+  image: media/customers/lodetex.png
+  title: "Lodetex s.p.a."
+  url: "https://www.lodetex.com"
+-
+  image: media/customers/mit-ambiente.png
+  title: "MIT Ambiente s.r.l."
+  url: "https://www.mitambiente.com"
+-
+  image: media/customers/aws-corporation.png
+  title: "AWS Corporation Srl"
+  url: "https://www.awscorporation.com"
+-
+  image: media/customers/studio-arcadia.png
+  title: "Studio Arcadia Srl"
+  url: "https://www.studioarcadiasrl.it"
+-
+  image: media/customers/consamb.png
+  title: "Consulenze ambientali s.p.a."
   url: "http://www.consamb.it/"
 -
-  image: media/customers/Logo_GNS_mod.jpg
-  title: "GNS-Science"
-  url: "http://www.gns.cri.nz/"
+  image: media/customers/faimm.png
+  title: "Fondazione Accademia Italiana della Marina Mercantile"
+  url: "https://accademiamarinamercantile.it"
 -
-  image: media/customers/images-1.jpeg
-  title: "International Atomic Energy Agency (IAEA)"
-  url: "http://www.iaea.org"
+  image: media/customers/unige.png
+  title: "Università degli Studi di Genova"
+  url: "https://www.unige.it"
 -
-  image: media/customers/images-2.jpeg
-  title: "Istituto Nazionale di Fisica Nucleare (INFN)"
-  url: "http://www.infn.it"
+  image: media/customers/iaea.png
+  title: "International Atomic Energy Agency"
+  url: "https://www.iaea.org"
 -
-  image: media/customers/Lodetex.jpg
-  title: "Lodetex SpA"
-  url: "http://www.lodetex.it/index.htm"
+  image: media/customers/arpa-puglia.png
+  title: "ARPA Puglia"
+  url: "https://www.arpa.puglia.it"
 -
-  image: media/customers/images-3.jpeg
-  title: "National Center for Scientific Research (NCSR) &quot;Demokritos&quot;"
-  url: "http://www.demokritos.gr"
--
-  image: media/customers/Logo_Arcadia.jpg
-  title: "Studio Arcadia Srl"
-  url: "http://www.studioarcadiasrl.it/"
--
-  image: media/customers/N-A.jpg
-  title: "Studio Professionale Godani"
-  url: ""
--
-  image: media/customers/N-A.jpg
-  title: "Studio Professionale Nicola Cozzi"
-  url: ""
--
-  image: media/customers/N-A.jpg
-  title: "Talea spa"
-  url: ""
--
-  image: media/customers/images-5.jpeg
-  title: "Techcom srl"
-  url: "http://www.techcom.it/"
--
-  image: media/customers/images-6.jpeg
-  title: "Universidad Miguel Hernández de Elche"
-  url: "http://www.umh.es/"
--
-  image: media/customers/Logo_unimi.jpg
+  image: media/customers/unimi.png
   title: "Università degli Studi di Milano"
-  url: "http://www.unimi.it/"
+  url: "https://www.unimi.it"
 -
-  image: media/customers/images-7.jpeg
+  image: media/customers/tu-darmstadt.png
+  title: "Technischen Universität Darmstadt"
+  url: "https://www.tu-darmstadt.de/"
+-
+  image: media/customers/cnr.png
+  title: "Consiglio Nazionale delle Ricerche"
+  url: "https://www.cnr.it"
+-
+  image: media/customers/units.png
   title: "Università degli Studi di Trieste"
-  url: "http://www.units.it/"
+  url: "https://www.units.it"
 -
-  image: media/customers/images-8.jpeg
+  image: media/customers/uniurb.png
+  title: "Università degli Studi di Urbino Carlo Bo"
+  url: "https://www.uniurb.it"
+-
+  image: media/customers/uhu.png
+  title: "Universidad de Huelva"
+  url: "http://www.uhu.es/"
+-
+  image: media/customers/csic.png
+  title: "Instituto de Diagnóstico Ambiental y Estudios del Agua - CSIC"
+  url: "https://www.idaea.csic.es/"
+-
+  image: media/customers/pordenone.png
+  title: "Comune di Pordenone"
+  url: "https://www.comune.pordenone.it/it"
+-
+  image: media/customers/cinfai.png
+  title: "Consorzio Interuniversitario Nazionale per la Fisica delle Atmosfere e delle Idrosfere"
+  url: "https://www.cinfai.it"
+-
+  image: media/customers/birmingham.png
   title: "University of Birmingham"
-  url: "http://www.birmingham.ac.uk/"
+  url: "https://www.birmingham.ac.uk/index.aspx"
 -
-  image: media/customers/250px-Vwrlogo.jpg
-  title: "VWR International"
-  url: "https://www.vwr.com/"
+  image: media/customers/duth.png
+  title: "Democritus University of Thrace"
+  url: "https://www.duth.gr"
 -
-  image: media/customers/logo_Water_Life.jpg
-  title: "Water_Life Lab"
-  url: "http://www.waterlifelab.it/"
+  image: media/customers/umh.png
+  title: "Universidad Miguel Hernandez de Helche"
+  url: "http://www.umh.es/"

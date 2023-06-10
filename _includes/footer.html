@@ -6,8 +6,8 @@
           <div class="footer-info">
             <h3>{{ site.data.company.name }}</h3>
             <p>
-              {{ site.data.company.address.l1 }}<br>
-              {{ site.data.company.address.l2 }}<br><br>
+              {{ site.data.company.address[page.language].l1 }}<br>
+              {{ site.data.company.address[page.language].l2 }}<br><br>
               <strong>{{ site.data.labels.email[page.language] }}:</strong> {{ site.data.company.mail }}<br>
             </p>
           </div>
