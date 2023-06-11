@@ -55,3 +55,6 @@ secondary_email:
 download:
   en: Download
   it: Scarica
+all:
+  en: All
+  it: Tutti

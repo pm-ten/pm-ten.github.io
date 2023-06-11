@@ -7,7 +7,7 @@ layout: default
   <div class="container-fluid" data-aos="fade-up" data-aos-delay="200">
     <div class="portfolio-isotope" data-portfolio-filter="*" data-portfolio-layout="masonry" data-portfolio-sort="original-order">
       <ul class="portfolio-flters">
-        <li data-filter="*" class="filter-active">All</li>
+        <li data-filter="*" class="filter-active">{{ site.data.labels.all[page.language] }}</li>
         {%- for category in site.data.tools.categories %}
         <li data-filter=".filter-{{ category.key}}">{{ category.title[page.language] }}</li>
         {%- endfor %}

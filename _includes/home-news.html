@@ -6,6 +6,7 @@
     <div class="row">
       {%- assign newsPages = site.pages | where: "type", "news" | where: "language", page.language | sort: "date" | reverse %}
       {%- for news in newsPages %}
+      {%- unless news.hideFromHomePage %}
       <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
         <div class="post-box">
           <div class="post-img"><img src="{{ news.image | relative_url }}" class="img-fluid" alt=""></div>
@@ -17,6 +18,7 @@
           <a href="{{ news.url | relative_url }}" class="readmore stretched-link"><span>{{ site.data.labels.read_more[page.language] }}</span><i class="bi bi-arrow-right"></i></a>
         </div>
       </div>
+      {%- endunless %}
       {%- endfor %}
     </div>
   </div>
