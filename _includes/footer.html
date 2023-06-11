@@ -30,7 +30,7 @@
             {%- assign privacyPage = site.pages | where: "key", "privacy" | where: "language", page.language | first %}
             <li><i class="bi bi-chevron-right"></i> <a href="{{ page.language | relative_url }}">{{ site.data.labels.home[page.language] }}</a></li>
             <li><i class="bi bi-chevron-right"></i> <a href="{{ downloadsPage.url | relative_url }}">{{ downloadsPage.title }}</a></li>
-            <li><i class="bi bi-chevron-right"></i> <a href="{{ toolssPage.url | relative_url }}">{{ toolsPage.title }}</a></li>
+            <li><i class="bi bi-chevron-right"></i> <a href="{{ toolsPage.url | relative_url }}">{{ toolsPage.title }}</a></li>
           </ul>
         </div>
       </div>

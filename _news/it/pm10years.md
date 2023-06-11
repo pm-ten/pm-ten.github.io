@@ -1,7 +1,7 @@
 ---
 key: news-pm10years
 title: PM_TEN 10 Years
-abstract: "Today we celebrate 10 years since the foundation of PM_TEN Srl. A long and fascinating journey, far from over: always on the spot!"
+abstract: "Oggi si celebrano 10 anni dalla fondazione di PM_TEN srl. Un percorso incredibile: grazie a tutti quelli che hanno creduto e ancora credono in noi!"
 date: 2022-07-04
 image: media/news/pm10-10years.jpg
 ---
