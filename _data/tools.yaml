@@ -24,18 +24,18 @@ tools:
       it: "Analizzatore di assorbanza e di concentrazione di Black Carbon in campioni di particolato atmosferico"
     description:
       en: "Original optical system for non-destructive determination of Black Carbon collected on filters of sequential samplers, streakers and multi-stage inertial impactor."
-      it: "Sistema ottico originale  per la determinazione non distruttiva del Black Carbon raccolto su filtri di campionatori sequenziali, streakers e impattori inerziali multi-stadio."
+      it: "Sistema ottico originale per la determinazione non distruttiva del Black Carbon raccolto su filtri di campionatori sequenziali, streakers e impattori inerziali multi-stadio."
   -
     image: media/tools/Sunset.jpg
     category: c0
     title:
-      en: "Sunset Elemental Carbon (EC) and Organic Carbon analyzer in atmospheric particulate samples (NIOSH 5040, EUSAAR, Quartz,…)"
+      en: "Sunset Elemental Carbon (EC) and Organic Carbon (OC) analyzer in atmospheric particulate samples (NIOSH 5040, EUSAAR, Quartz,…)"
       it: "Analizzatore di Carbonio Organico (OC) ed Elementare (EC) presenti in campioni di particolato atmosferico"
     description:
       en: "Alpha spectrometer in vacuum for the detection of radioactive isotopes in thin samples and activity measures."
       it: "Analizzatore termo-ottico di TOC/OC/EC - Sunset Laboratory."
   -
-    image: media/tools/IMG_6377.JPG
+    image: media/tools/sartorious_mc5_analytical_balance.jpg
     category: c0
     title:
       en: "Analytical balance"
