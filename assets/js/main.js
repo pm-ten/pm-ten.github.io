@@ -1,9 +1,3 @@
-/**
-* Template Name: HeroBiz - v2.4.0
-* Template URL: https://bootstrapmade.com/herobiz-bootstrap-business-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 document.addEventListener('DOMContentLoaded', () => {
   "use strict";
 
@@ -283,7 +277,7 @@ document.addEventListener('DOMContentLoaded', () => {
    * Animation on scroll function and init
    */
   function aos_init() {
-    AOS.init({
+    window.AOS && window.AOS.init({
       duration: 1000,
       easing: 'ease-in-out',
       once: true,
