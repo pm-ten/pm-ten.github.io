@@ -4,7 +4,9 @@
         <div class="col-lg-8 col-md-6 content d-flex flex-column justify-content-center order-last order-md-first">
           <h3>{{ site.data.cta.title[page.language] }}</h3>
           <p>{{ site.data.cta.abstract[page.language] }}</p>
+          {%- if site.data.cta.link[page.language] and site.data.cta.link[page.language] != "" -%}
           <a class="cta-btn align-self-start" href="{{ site.data.cta.link[page.language] | relative_url }}">{{ site.data.labels.read_more[page.language] }}</a>
+          {%- endif -%}
         </div>
         <div class="col-lg-4 col-md-6 order-first order-md-last d-flex align-items-center">
           <div class="img">
