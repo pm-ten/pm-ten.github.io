@@ -1,3 +1,4 @@
+{%- if site.data.cta.title[page.language] and site.data.cta.title[page.language] != "" -%}
 <section id="cta" class="cta">
     <div class="container" data-aos="zoom-out">
       <div class="row g-5">
@@ -16,3 +17,4 @@
       </div>
     </div>
   </section>
+{%- endif -%}
