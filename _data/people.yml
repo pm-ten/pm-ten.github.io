@@ -70,3 +70,15 @@
   secondary_mail: 
   image: media/team/people-santostefano.jpg
   sort: 6
+- key: people-danelli
+  title: Silvia Giulia Danelli
+  role: 
+    en: Business Development Manager
+    it: Business Development Manager
+  location: P.zza Soziglia 1/18b, 16123 Genova (GE)
+  phone: 
+  mobile: +39 3755346918 
+  mail: silviagiulia.danelli@pm10-ambiente.it
+  secondary_mail: 
+  image: media/team/people-danelli.jpg
+  sort: 7
