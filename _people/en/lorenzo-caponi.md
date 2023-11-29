@@ -3,8 +3,11 @@ key: people-caponi
 title: Lorenzo Caponi
 ---
 
-Ricercatore presso PM_TEN. 
+Lab Manager.
 
-Master di II livello in Scienze e ingegneria dell'ambiente (M2R SGE), laurea magistrale in fisica. 
+Second-level Master's degree in Environmental Science and Engineering (M2R SGE), Master's degree in Physics.
 
-Competenze: misura e analisi della composizione chimica dell'atmosfera, tecniche ottiche e termo-ottiche per la determinazione della frazione carboniosa (Carbonio Organico e Elementare) nel particolato atmosferico.
+Skills and expertise: 
+- Measurement and analysis of the chemical composition of the atmosphere.
+- Optical and thermo-optical techniques for determining the carbonaceous fraction (Organic and Elemental Carbon, Black Carbon) in atmospheric particulate matter.
+- Source apportionment by receptor models (PMF).

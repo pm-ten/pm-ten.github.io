@@ -3,10 +3,15 @@ key: people-brotto
 title: Paolo Brotto
 ---
 
-Research activity manager at PM_TEN. 
+CEO/CTO. 
 
 PhD in Materials Science, master degree in Physics. 
 
-Expertise: environmental modeling, numerical codes for pollutant atmospheric dispersion models. Project management. team coordination, administration. 
+Skills and Expertise: 
+- Environmental modeling.
+- Numerical codes for pollutant atmospheric dispersion models.
+- Project management.
+- Team coordination.
+- Administration. 
 
 Certified faciliator Lego Serious Play.
