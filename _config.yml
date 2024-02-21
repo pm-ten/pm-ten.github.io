@@ -28,7 +28,7 @@ exclude:
   - .jekyll-cache/
 
 # Process these folders
-include: ["_pages", "_services", "_people", "_news"]
+include: ["_pages", "_services", "_people", "_news", "_projects"]
 
 # Apply defaults based on path
 defaults:
@@ -92,6 +92,23 @@ defaults:
     language: 'it'
     permalink: 'it/news/:basename'
     type: 'news'
+
+-
+  scope:
+    path: '_projects/en'
+  values:
+    layout: project
+    language: 'en'
+    permalink: 'en/projects/:basename'
+    type: 'project'
+-
+  scope:
+    path: '_projects/it'
+  values:
+    layout: project
+    language: 'it'
+    permalink: 'it/progetti/:basename'
+    type: 'projects'
 
 encoding: "UTF-8"
 

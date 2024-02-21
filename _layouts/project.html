@@ -1,0 +1,21 @@
+---
+layout: default
+---
+{%- assign subSectionName = site.data.labels.section_title_projects[page.language] -%}
+{%- include breadcrumbs.html pageTitle=page.title %}
+<section id="blog" class="blog">
+  <div class="container" data-aos="fade-up">
+    <div class="row gy-4">
+      <div class="col-12">
+        <article class="blog-details">
+          <div class="post-img">
+            <img src="{{ page.image | relative_url }}" class="img-fluid" alt="">
+          </div>
+          <div class="content">
+            {{ content }}
+          </div>
+        </article>
+      </div>
+    </div>
+  </div>
+</section>
