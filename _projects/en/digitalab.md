@@ -13,7 +13,7 @@ duration:  "November 2022 - April 2024"
 sector: "Digitalization of laboratory processes"
 ---
 
-The DigitaLab project has started, funded by the Regional Program PR FESR 2021 - 2027 of the Liguria Region, which proposes the study, development and implementation of a new digital management system for business processes, with particular reference to the services provided in the context of laboratory analysis.
+The DigitaLab project, funded by the Regional Program PR FESR 2021 - 2027 of the Liguria Region, proposes the study, development and implementation of a new digital management system for business processes, with particular reference to the services provided in the context of laboratory analysis.
 
 Developed through the multi-platform Adiuto, owned by Bluenext Srl (a leading Italian company in the management and digitalisation software sector), DigitaLab is an entirely digital and remotely operable system, which will simplify interactions between the various company operating units (laboratory and technical office and administrative office) guaranteeing full traceability of all process phases and the integrity of the entire documentary component.
 

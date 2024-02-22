@@ -13,7 +13,7 @@ duration:  "Novembre 2022 - Aprile 2024"
 sector: "Digitalizzazione processi di laboratorio"
 ---
 
-È partito il progetto DigitaLab, finanziato dal Programma Regionale PR FESR 2021 – 2027 di Regione Liguria, che propone lo studio, sviluppo e messa in opera di un nuovo sistema di gestione digitale dei processi aziendali, con particolare riferimento ai servizi erogati nell’ambito delle analisi di laboratorio. 
+Il progetto DigitaLab, finanziato dal Programma Regionale PR FESR 2021 – 2027 di Regione Liguria, propone lo studio, sviluppo e messa in opera di un nuovo sistema di gestione digitale dei processi aziendali, con particolare riferimento ai servizi erogati nell’ambito delle analisi di laboratorio. 
 
 Sviluppato tramite la multipiattaforma Adiuto, proprietà di Bluenext Srl (azienda italiana leader nel settore dei software gestionali e di digitalizzazione), DigitaLab è sistema interamente digitale e operabile in via remota, che semplificherà le interazioni fra le diverse unità operative aziendali (laboratorio e ufficio tecnico e ufficio amministrativo) garantendo piena tracciabilità di tutte le fasi di processo e l’integrità di tutta la componente documentale. 
 
