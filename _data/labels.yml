@@ -61,3 +61,18 @@ download:
 all:
   en: All
   it: Tutti
+project_title:
+  en: Project
+  it: Progetto
+project_type:
+  en: Type
+  it: Tipologia
+project_partners:
+  en: Partners
+  it: Partners
+project_duration:
+  en: Duration
+  it: Durata
+project_sector:
+  en: Sector
+  it: Settore

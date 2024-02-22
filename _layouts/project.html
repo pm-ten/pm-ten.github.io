@@ -3,18 +3,47 @@ layout: default
 ---
 {%- assign subSectionName = site.data.labels.section_title_projects[page.language] -%}
 {%- include breadcrumbs.html pageTitle=page.title %}
-<section id="blog" class="blog">
+<section id="portfolio-details" class="portfolio-details">
   <div class="container" data-aos="fade-up">
     <div class="row gy-4">
-      <div class="col-12">
+      <div class="col-lg-7">
         <article class="blog-details">
-          <div class="post-img">
-            <img src="{{ page.image | relative_url }}" class="img-fluid" alt="">
-          </div>
           <div class="content">
             {{ content }}
           </div>
+          {%- if page.image_bottom and page.image_bottom != "" -%}
+          <div style="text-align:center">
+            <img src="{{ page.image_bottom | relative_url }}" class="img-fluid" alt="{{ page.title }}"">
+          </div>
+          {%- endif -%}
         </article>
+      </div>
+      <div class="col-lg-5">
+        <div style="margin-bottom: 20px">
+          <img src="{{ page.image | relative_url }}" class="img-fluid" alt="{{ page.title }}">
+        </div>
+        <div class="portfolio-info" style="margin:20px">
+          <ul>
+            <li><strong>{{ site.data.labels.project_title[page.language] }}</strong>: {{ page.title }}</li>
+            {%- if page.type and page.type != "" -%}
+            <li><strong>{{ site.data.labels.project_type[page.language] }}</strong>: {{ page.type }}</li>
+            {%- endif -%}
+            {%- if page.partners and page.partners != "" -%}
+            <li>
+              <strong>{{ site.data.labels.project_partners[page.language] }}</strong>:
+              {%- for partner in page.partners %}
+              <a href="{{partner.url}}">{{partner.title}}</a>
+              {% endfor %}
+            </li>
+            {%- endif -%}
+            {%- if page.duration and page.duration != "" -%}
+            <li><strong>{{ site.data.labels.project_duration[page.language] }}</strong>: {{ page.duration }}</li>
+            {%- endif -%}
+            {%- if page.sector and page.sector != "" -%}
+            <li><strong>{{ site.data.labels.project_sector[page.language] }}</strong>: {{ page.sector }}</li>
+            {%- endif -%}
+          </ul>
+        </div>
       </div>
     </div>
   </div>
