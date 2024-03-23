@@ -1,0 +1,20 @@
+- key: project-digitalab
+  title: 
+    en: DigitaLab
+    it: DigitaLab
+  image: media/projects/digitalab.png
+  image_bottom: media/projects/digitalab_logos_v2.png
+  type: 
+    en: "Regional Program PR FESR 2021-2027​"
+    it: "Programma P.R. FESR LIGURIA 2021-2027​"
+  partners:
+      -
+          title: "PM_TEN"
+          url: "/"
+          newtab: false
+  duration:
+    en: "November 2022 - April 2024"
+    it: "Novembre 2022 - Aprile 2024"
+  sector: 
+    en: "Digitalization of laboratory processes"
+    it: "Digitalizzazione processi di laboratorio"
