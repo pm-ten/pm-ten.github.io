@@ -33,7 +33,7 @@ layout: default
             <li>
               <strong>{{ site.data.labels.project_partners[page.language] }}</strong>:
               {%- for partner in project.partners %}
-              <a href="{{partner.url}}">{{partner.title}}</a>
+              <a href="{{partner.url}}" {%- if partner.newtab -%}target="_blank"{%- endif -%}>{{partner.title}}</a>
               {% endfor %}
             </li>
             {%- endif -%}
