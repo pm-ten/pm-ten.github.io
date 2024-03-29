@@ -34,19 +34,19 @@ include: ["_pages", "_services", "_people", "_news", "_projects"]
 defaults:
 -
   scope:
-    path: '_pages/en'
+    path: '_pages/root/en'
   values:
     language: 'en'
     permalink: 'en/:basename'
 -
   scope:
-    path: '_pages/it'
+    path: '_pages/root/it'
   values:
     language: 'it'
     permalink: 'it/:basename'
 -
   scope:
-    path: '_services/en'
+    path: '_pages/services/en'
   values:
     layout: service
     language: 'en'
@@ -54,7 +54,7 @@ defaults:
     type: 'service'
 -
   scope:
-    path: '_services/it'
+    path: '_pages/services/it'
   values:
     layout: service
     language: 'it'
@@ -62,7 +62,7 @@ defaults:
     type: 'service'
 -
   scope:
-    path: '_people/en'
+    path: '_pages/people/en'
   values:
     layout: person
     language: 'en'
@@ -70,7 +70,7 @@ defaults:
     type: 'person'
 -
   scope:
-    path: '_people/it'
+    path: '_pages/people/it'
   values:
     layout: person
     language: 'it'
@@ -78,7 +78,7 @@ defaults:
     type: 'person'
 -
   scope:
-    path: '_news/en'
+    path: '_pages/news/en'
   values:
     layout: news
     language: 'en'
@@ -86,7 +86,7 @@ defaults:
     type: 'news'
 -
   scope:
-    path: '_news/it'
+    path: '_pages/news/it'
   values:
     layout: news
     language: 'it'
@@ -95,7 +95,7 @@ defaults:
 
 -
   scope:
-    path: '_projects/en'
+    path: '_pages/projects/en'
   values:
     layout: project
     language: 'en'
@@ -103,7 +103,7 @@ defaults:
     type: 'project'
 -
   scope:
-    path: '_projects/it'
+    path: '_pages/projects/it'
   values:
     layout: project
     language: 'it'

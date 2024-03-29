@@ -1,9 +1,6 @@
 ---
 key: news-prompt-project-kom
 title: PROMPT Project – KOM @ Palazzo S. Giorgio
-abstract: "Importante appuntamento a Genova – Palazzo S.Giorgio per il Kick-Off Meeting del progetto europeo PROMPT - DG ECHO UCPM"
-date: 2023-05-30
-image: media/news/prompt-project-kom.jpg
 ---
 
 Si è tenuto a palazzo S.Giorgio il Kick-off Meeting del progetto PROMPT, finanziato nell’ambito del programma DG-ECHO Union Civil Protection Mechanism della Comunità Europea per sviluppare un sistema di supporto alle decisioni e intervenire in caso di incidenti di sversamento in mare. 

@@ -1,9 +1,6 @@
 ---
 key: news-in-heritage-sme4smartcities
 title: In-Heritage (within SME4SMARTCITIES project)
-abstract: "The IN-HERITAGE project, winner of the challenge launched as part of SME4SMARTCITIES presented at the Rolli Days in Genoa."
-date: 2023-04-29
-image: media/news/in-heritage-sme4smartcities.jpg
 ---
 
 Presented at Rolli Days the IN-HERITAGE project. 

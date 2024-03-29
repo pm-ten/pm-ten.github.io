@@ -1,9 +1,6 @@
 ---
 key: news-findus-fishing-for-litter
 title: Findus - Fishing for Litter (con Ogyre)
-abstract: "Continua lo studio di classificazione dei rifiuti raccolti dai pescatori di Santa Margherita Ligure, in collaborazione con Ogyre e Findus."
-date: 2023-05-02
-image: media/news/findus-fishing-for-litter.jpg
 ---
 
 Un progetto innovativo attento ai temi ambientali e in linea con i principi dell’economia circolare. 

@@ -1,0 +1,100 @@
+- 
+  key: news-39-aidii-congress
+  title:
+    en: AIDII 39th Congress
+    it: 39° Congresso AIDII
+  abstract:
+    en: "39th edition of the Congress of the Association of Industrial Hygienists. Paolo Brotto (PM_TEN CEO/CTO) will also speak to talk about carbon aerosol measurements."
+    it: "39a edizione del Congresso dell’Associazione Degli Igienisti Industriali. Interverrà anche Paolo Brotto (PM_TEN CEO/CTO) per parlare di misure di aerosol carbonioso"
+  date: 2023-06-15
+  image: media/news/39-aidii-congress.jpg
+- 
+  key: news-findus-fishing-for-litter
+  title:
+    en: Findus - Fishing for Litter (with Ogyre)
+    it: Findus - Fishing for Litter (con Ogyre)
+  abstract:
+    en: "The classification study of the waste collected by the fishermen of Santa Margherita Ligure continues, in collaboration with Ogyre and Findus."
+    it: "Continua lo studio di classificazione dei rifiuti raccolti dai pescatori di Santa Margherita Ligure, in collaborazione con Ogyre e Findus."
+  date: 2023-05-02
+  image: media/news/findus-fishing-for-litter.jpg
+- 
+  key: news-gianobc1-arpal
+  title:
+    en: Arpal uses GianoBC1 for black carbon tests
+    it: Arpal utilizza GianoBC1 per i test sul black carbon 
+  abstract:
+    en: "Happy and proud that the innovative technology for real-time measurement of BlackCarbon patented by PM_TEN s.r.l. together with Dado lab Srl and integrated in GianoBC1 is tested by Arpal - Ligurian regional environmental protection agency at one of the most significant sites for air quality in Genoa."
+    it: "Felici e orgogliosi che la tecnologia innovativa per la misura in tempo reale del #BlackCarbon brevettata da PM_TEN s.r.l. insieme a Dado lab Srl e integrata nel #GianoBC1 sia testata da Arpal - Agenzia regionale per la protezione dell'ambiente ligure presso uno dei siti più significativi per la qualità dell'aria nella nostra città #Genova"
+  date: 2021-03-01
+  image: media/news/gianobc1-arpal.jpg
+- 
+  key: news-in-heritage-sme4smartcities
+  title:
+    en: In-Heritage (within SME4SMARTCITIES project)
+    it: In-Heritage (within SME4SMARTCITIES project)
+  abstract:
+    en: "The IN-HERITAGE project, winner of the challenge launched as part of SME4SMARTCITIES presented at the Rolli Days in Genoa."
+    it: "Il progetto IN-HERITAGE, vincitore della challenge lanciata nell’ambito di SME4SMARTCITIES presentato ai Rolli Days a Genova."
+  date: 2023-04-29
+  image: media/news/in-heritage-sme4smartcities.jpg
+- 
+  key: news-lego-qti
+  title:
+    en: Lego Serious Play @ QTI
+    it: Lego Serious Play @ QTI
+  abstract:
+    en: "In December 2021, Paolo Brotto and Barbara Repetto facilitated a workshop at QTI SRL. Tommaso Occhipinti Davide Bacco Alessandro Zavatta and the whole QTI Team joined the initiative. Have a bright future guys, you deserve it!"
+    it: "A dicembre 2021, Paolo Brotto e Barbara Repetto hanno facilitato un workshop presso QTI SRL. Tommaso Occhipinti Davide Bacco Alessandro Zavatta e tutto il Team QTI hanno aderito all'iniziativa. Buon futuro ragazzi, ve lo meritate!"
+  date: 2021-12-01
+  image: media/news/lego-qti.jpg
+- 
+  key: news-new-entry-danelli
+  title:
+    en: Welcome Silvia!
+    it: Benvenuta Silvia!
+  abstract:
+    en: "We are thrilled to introduce the newest member of our team: Dr Silvia Giulia Danelli, our new Business Development Manager."
+    it: "Siamo entusiasti di presentare il nuovo membro del nostro team: la Dott.ssa Silvia Giulia Danelli, la nostra nuova Business Development Manager."
+  date: 2023-11-29
+  image: media/news/new-entry-danelli.jpg
+- 
+  key: news-pm10years
+  title:
+    en: PM_TEN 10 Years
+    it: PM_TEN 10 Years
+  abstract:
+    en: "Today we celebrate 10 years since the foundation of PM_TEN Srl. A long and fascinating journey, far from over: always on the spot!"
+    it: "Oggi si celebrano 10 anni dalla fondazione di PM_TEN srl. Un percorso incredibile: grazie a tutti quelli che hanno creduto e ancora credono in noi!"
+  date: 2022-07-04
+  image: media/news/pm10-10years.jpg
+- 
+  key: news-pm2022-x-convegno
+  title:
+    en: PM 2022 - 10th Conference on Atmospheric Particulate
+    it: PM 2022 - X Convegno sul particolato atmosferico
+  abstract:
+    en: "PM_TEN will be there with the intervention of its Lab Manager Lorenzo Caponi, who will present the results obtained studying an innovative methodology for measuring Black Carbon and developing the integrated optical module in the GianoBC1 sequential sampler."
+    it: "PM_TEN sarà presente con l'intervento del suo Lab Manager Lorenzo Caponi, che venerdì 20 maggio alle ore 11:45 (Aula B del Best Western Plus Tower Hotel) presenterà i risultati ottenuti dallo studio di una metodologia innovativa per la misura del #BlackCarbon e dallo sviluppo del modulo ottico integrato nel campionatore sequenziale #GianoBC1"
+  date: 2022-05-20
+  image: media/news/pm2022.jpg
+- 
+  key: news-pordenone-municipality-agenda-urbana
+  title:
+    en: Pordenone Municipality - Agenda Urbana T.E.M.
+    it: Pordenone Municipality - Agenda Urbana T.E.M.
+  abstract:
+    en: "A monitoring system integrating smart-sensors and numerical modelling for the real-time assessment of atmospheric pollution in Pordenone Municipality area."
+    it: "Un sistema di monitoraggio che integra smart-sensors e modelli numerici di simulazione per la valutazione in tempo reale dell'inquinamento atmosferico nel territorio del Comune di Pordenone."
+  date: 2023-03-01
+  image: media/news/generic.jpg
+- 
+  key: news-prompt-project-kom
+  title:
+    en: PROMPT Project – KOM @ Palazzo S. Giorgio
+    it: PROMPT Project – KOM @ Palazzo S. Giorgio
+  abstract:
+    en: "Save the date for the Kick-Off Meeting in Genoa, Palazzo San Giorgio of the PROMPT project - DG ECHO UCPM."
+    it: "Importante appuntamento a Genova – Palazzo S.Giorgio per il Kick-Off Meeting del progetto europeo PROMPT - DG ECHO UCPM"
+  date: 2023-05-30
+  image: media/news/prompt-project-kom.jpg

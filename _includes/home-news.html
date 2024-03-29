@@ -4,18 +4,19 @@
       <h2>{{ site.data.labels.section_title_news[page.language] }}</h2>
     </div>
     <div class="row">
-      {%- assign newsPages = site.pages | where: "type", "news" | where: "language", page.language | sort: "date" | reverse %}
-      {%- for news in newsPages %}
+      {%- assign sortedNews = site.data.news | sort: 'date' | reverse %}      
+      {%- for news in sortedNews %}      
       {%- unless news.hideFromHomePage %}
+      {%- assign newsPage = site.pages | where: "type", "news" | where: "key", news.key | where: "language", page.language | first %}
       <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
         <div class="post-box">
           <div class="post-img"><img src="{{ news.image | relative_url }}" class="img-fluid" alt=""></div>
           <div class="meta">
             <span class="post-date">{%- include date.html date=news.date language=page.language -%}</span>
           </div>
-          <h3 class="post-title">{{ news.title }}</h3>
-          <p>{{ news.abstract }}</p>
-          <a href="{{ news.url | relative_url }}" class="readmore stretched-link"><span>{{ site.data.labels.read_more[page.language] }}</span><i class="bi bi-arrow-right"></i></a>
+          <h3 class="post-title">{{ news.title[page.language] }}</h3>
+          <p>{{ news.abstract[page.language] }}</p>
+          <a href="{{ newsPage.url | relative_url }}" class="readmore stretched-link"><span>{{ site.data.labels.read_more[page.language] }}</span><i class="bi bi-arrow-right"></i></a>
         </div>
       </div>
       {%- endunless %}

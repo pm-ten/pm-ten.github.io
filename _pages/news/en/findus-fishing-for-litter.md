@@ -1,9 +1,6 @@
 ---
 key: news-findus-fishing-for-litter
 title: Findus - Fishing for Litter (with Ogyre)
-abstract: "The classification study of the waste collected by the fishermen of Santa Margherita Ligure continues, in collaboration with Ogyre and Findus."
-date: 2023-05-02
-image: media/news/findus-fishing-for-litter.jpg
 ---
 
 An innovative project which takes care of the environment in line with the principles of the circular economy. 

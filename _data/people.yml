@@ -1,4 +1,5 @@
-- key: people-brotto
+- 
+  key: people-brotto
   title: Paolo Brotto
   role: 
     en: Founding Member and CEO/CTO
@@ -10,7 +11,8 @@
   secondary_mail: paolo.brotto@pec.chimicifisici.it
   image: media/team/people-brotto.jpg
   sort: 1
-- key: people-caponi
+- 
+  key: people-caponi
   title: Lorenzo Caponi
   role: 
     en: Lab Manager
@@ -22,7 +24,8 @@
   secondary_mail: 
   image: media/team/people-caponi.jpg
   sort: 2
-- key: people-danelli
+- 
+  key: people-danelli
   title: Silvia Giulia Danelli
   role: 
     en: Business Development Manager
@@ -34,7 +37,8 @@
   secondary_mail: 
   image: media/team/people-danelli.jpg
   sort: 3
-- key: people-santostefano
+- 
+  key: people-santostefano
   title: Matteo Santostefano
   role: 
     en: Software Development - IT
@@ -46,7 +50,8 @@
   secondary_mail: 
   image: media/team/people-santostefano.jpg
   sort: 4
-- key: people-prati
+- 
+  key: people-prati
   title: Paolo Prati
   role: 
     en: Founding Member
@@ -58,7 +63,8 @@
   secondary_mail: prati@ge.infn.it
   image: media/team/people-prati.jpg
   sort: 5
-- key: people-mazzino
+- 
+  key: people-mazzino
   title: Andrea Mazzino
   role: 
     en: Founding Member
@@ -70,7 +76,8 @@
   secondary_mail: andrea.mazzino@unige.it 
   image: media/team/people-mazzino.jpg
   sort: 6
-- key: people-massabo
+- 
+  key: people-massabo
   title: Dario Massabò
   role: 
     en: Founding Member
