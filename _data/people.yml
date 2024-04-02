@@ -89,3 +89,17 @@
   secondary_mail: Massabo@ge.infn.it  
   image: media/people/people-massabo.jpg
   sort: 7
+
+- 
+  key: people-decamillis
+  title: Matilde De Camillis
+  role: 
+    en: Junior Researcher
+    it: Ricercatrice Junior
+  location: P.zza Soziglia 1/18b, 16123 Genova (GE)
+  phone: 
+  mobile: 
+  mail: matilde.decamillis@pm10-ambiente.it
+  secondary_mail: 
+  image: media/people/people-decamillis.jpg
+  sort: 8
