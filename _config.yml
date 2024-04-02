@@ -29,7 +29,7 @@ exclude:
   - .jekyll-cache/
 
 # Process these folders
-include: ["_pages", "_services", "_people", "_news", "_projects"]
+include: [ "_pages" ]
 
 # Apply defaults based on path
 defaults:
