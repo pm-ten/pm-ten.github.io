@@ -103,3 +103,16 @@
   secondary_mail: 
   image: media/people/people-decamillis.jpg
   sort: 8
+- 
+  key: people-perasso
+  title: Silvia Perasso
+  role: 
+    en: Junior Researcher
+    it: Ricercatrice Junior
+  location: P.zza Soziglia 1/18b, 16123 Genova (GE)
+  phone: 
+  mobile: +39 3489706116
+  mail: silvia.perasso@pm10-ambiente.it
+  secondary_mail: 
+  image: media/people/people-perasso.jpg
+  sort: 9
