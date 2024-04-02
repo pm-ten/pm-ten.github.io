@@ -24,6 +24,7 @@ exclude:
   - vendor
   - scripts
   - temp
+  - docs
   - .gitignore
   - .jekyll-cache/
 
@@ -108,7 +109,7 @@ defaults:
     layout: project
     language: 'it'
     permalink: 'it/progetti/:basename'
-    type: 'projects'
+    type: 'project'
 
 encoding: "UTF-8"
 

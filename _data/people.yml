@@ -9,7 +9,7 @@
   mobile: +39 3403487799
   mail: paolo.brotto@pm10-ambiente.it
   secondary_mail: paolo.brotto@pec.chimicifisici.it
-  image: media/team/people-brotto.jpg
+  image: media/people/people-brotto.jpg
   sort: 1
 - 
   key: people-caponi
@@ -22,7 +22,7 @@
   mobile: 
   mail: lorenzo.caponi@pm10-ambiente.it
   secondary_mail: 
-  image: media/team/people-caponi.jpg
+  image: media/people/people-caponi.jpg
   sort: 2
 - 
   key: people-danelli
@@ -35,7 +35,7 @@
   mobile: +39 3755346918 
   mail: silviagiulia.danelli@pm10-ambiente.it
   secondary_mail: 
-  image: media/team/people-danelli.jpg
+  image: media/people/people-danelli.jpg
   sort: 3
 - 
   key: people-santostefano
@@ -48,7 +48,7 @@
   mobile: 
   mail: matteo.santostefano@pm10-ambiente.it
   secondary_mail: 
-  image: media/team/people-santostefano.jpg
+  image: media/people/people-santostefano.jpg
   sort: 4
 - 
   key: people-prati
@@ -61,7 +61,7 @@
   mobile: +39 3493951491
   mail: paolo.prati@pm10-ambiente.it
   secondary_mail: prati@ge.infn.it
-  image: media/team/people-prati.jpg
+  image: media/people/people-prati.jpg
   sort: 5
 - 
   key: people-mazzino
@@ -74,7 +74,7 @@
   mobile: 
   mail: andrea.mazzino@pm10-ambiente.it
   secondary_mail: andrea.mazzino@unige.it 
-  image: media/team/people-mazzino.jpg
+  image: media/people/people-mazzino.jpg
   sort: 6
 - 
   key: people-massabo
@@ -87,5 +87,5 @@
   mobile: +39 3286369492
   mail: Dario.Massabo@pm10-ambiente.it
   secondary_mail: Massabo@ge.infn.it  
-  image: media/team/people-massabo.jpg
+  image: media/people/people-massabo.jpg
   sort: 7

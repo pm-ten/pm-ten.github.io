@@ -4,8 +4,9 @@
         <h2>{{ site.data.labels.section_title_team[page.language] }}</h2>
       </div>
       <div class="row gy-5">
-        {%- for person in site.data.people %}      
-        {%- assign personPage = site.pages | where: "key", person.key | where: "language", page.language | first %}
+        {%- assign sortedPersons = site.data.people | sort: 'sort' %}
+        {%- for person in sortedPersons %}
+        {%- assign personPage = site.pages | where: "type", "person" | where: "key", person.key | where: "language", page.language | first %}
         <div class="col-xl-4 col-md-6 d-flex" data-aos="zoom-in" data-aos-delay="200">
           <a href="{{ personPage.url | relative_url}}" class="readmore">
             <div class="team-member">

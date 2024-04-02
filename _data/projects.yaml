@@ -1,11 +1,10 @@
-- 
-  key: project-digitalab
+- key: project-digitalab
   title: 
     en: DigitaLab
     it: DigitaLab
   sort: 1
   image: media/projects/digitalab.png
-  image_bottom: media/projects/digitalab_logos_v2.png
+  image_bottom: media/projects/digitalab_bottom.png
   type: 
     en: "Regional Program PR FESR 2021-2027​"
     it: "Programma P.R. FESR LIGURIA 2021-2027​"

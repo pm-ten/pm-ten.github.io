@@ -1,24 +1,27 @@
-<section id="services" class="services">
-  <div class="container" data-aos="fade-up">
-    <div class="section-header">
-      <h2>{{ site.data.labels.section_title_services[page.language] }}</h2>
-    </div>
-    <div class="row gy-5">
+<section id="features" class="features">
+  <div id="services" class="container" data-aos="fade-up">
+    <ul class="nav nav-tabs row gy-4 d-flex">
+      {%- for service in site.data.services | sort: 'sort' %}
+      <li class="nav-item col-6 col-md-3">
+        <a class="nav-link {% if forloop.first %}active show{%- endif %}" data-bs-toggle="tab" data-bs-target="#tab-{{ service.key }}">
+          <i class="bi {{ service.icon }}"></i>
+          <h4>{{ service.title[page.language] }}</h4>
+        </a>
+      </li>
+      {%- endfor %}
+    </ul>
+    <div class="tab-content">
       {%- for service in site.data.services | sort: 'sort' %}
       {%- assign servicePage = site.pages | where: "key", service.key | where: "language", page.language | first %}
-      <div class="col-xl-6 col-md-6" data-aos="zoom-in" data-aos-delay="200">
-        <div class="service-item">
-          <div class="img">
-            <img src="{{ service.image | relative_url }}" class="img-fluid" alt="">
+      <div class="tab-pane {% if forloop.first %}active show{%- endif %}" id="tab-{{ service.key }}">
+        <div class="row gy-4">
+          <div class="col-lg-8 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="100">
+            <h3>{{ service.title[page.language] }}</h3>
+            <p class="fst-italic">{{ service.abstract[page.language] }}</p>
+            <a href="{{ servicePage.url | relative_url }}" class="readmore"><span>{{ site.data.labels.read_more[page.language] }}</span><i class="bi bi-arrow-right"></i></a>
           </div>
-          <div class="details position-relative">
-            <div class="icon">
-              <i class="bi {{ service.icon }}"></i>
-            </div>
-            <a href="{{ servicePage.url  | relative_url}}" class="stretched-link">
-              <h3>{{ service.title[page.language] }}</h3>
-            </a>
-            <p>{{ service.abstract[page.language] }}</p>
+          <div class="col-lg-4 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
+            <img src="{{ service.image | relative_url }}" alt="" class="img-fluid">
           </div>
         </div>
       </div>

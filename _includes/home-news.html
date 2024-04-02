@@ -4,7 +4,7 @@
       <h2>{{ site.data.labels.section_title_news[page.language] }}</h2>
     </div>
     <div class="row">
-      {%- assign sortedNews = site.data.news | sort: 'date' | reverse %}      
+      {%- assign sortedNews = site.data.news | sort: 'date' | reverse %}
       {%- for news in sortedNews %}      
       {%- unless news.hideFromHomePage %}
       {%- assign newsPage = site.pages | where: "type", "news" | where: "key", news.key | where: "language", page.language | first %}
