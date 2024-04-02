@@ -1,10 +1,23 @@
-# News
+# Editor's Workflow
+1. Gather all content information (texts, metadata, images)
+2. Prepare the image(s) according to the specifications listed in the Reference section
+3. Add the image(s) in the subfolder of the *media* folder specific for the content type
+4. Insert the content metadata in the corresponding metadata file
+5. Create both the English and the Italian pages
+    1. Add a markdown or an html file in the subfolder of the *pages* folder specific for the content type and the language
+    2. Add a **front matter** section at the beginning, including the *key* and the *title* (same value as the metadata file)
+    3. Add the page content using the proper syntax (Markdown or HTML respectively)
+
+
+# Reference
+
+## News
 
 The metadata file is at [/_data/news.yml](/_data/news.yml).
 
 News pages must be saved in [_pages/news](/_pages/news), in the corresponding localized folder.
 
-## Metadata Fields
+### Metadata Fields
 
 | Field Name | Field Type | Localized | Description
 | -- | -- | -- | --
@@ -16,16 +29,16 @@ News pages must be saved in [_pages/news](/_pages/news), in the corresponding lo
 | hideFromHomePage | boolean | no | Optional field. If **true**, the news is not included in the news rollup for the home page.
 
 
-## Page Fields
+### Page Fields
 
 | Field Name | Field Type | Description
 | -- | -- | --
 | key | string | Unique identifier. Use the **news-** prefix. This must be equal to the *key* metadata field.
 | title | string | Use the same value as the *title* metadata field.
 
-## Images
+### Images
 
-News images must be saved in [media/news](/_pages/news).
+News images must be saved in [media/news](/media/news).
 
 | Setting | Value | Notes
 | -- | -- | --
@@ -33,13 +46,13 @@ News images must be saved in [media/news](/_pages/news).
 | Image Height | 500px |
 
 
-# Projects
+## Projects
 
 The metadata file is at [/_data/projects.yml](/_data/projects.yml).
 
 Project pages must be saved in [_pages/projects](/_pages/projects), in the corresponding localized folder.
 
-## Metadata Fields
+### Metadata Fields
 
 | Field Name | Field Type | Localized | Description
 | -- | -- | -- | --
@@ -57,16 +70,16 @@ Project pages must be saved in [_pages/projects](/_pages/projects), in the corre
 | sort | number | no | Sort order (lower values are shown first)
 
 
-## Page Fields
+### Page Fields
 
 | Field Name | Field Type | Description
 | -- | -- | --
 | key | string | Unique identifier. Use the **project-** prefix. This must be equal to the *key* metadata field.
 | title | string | Use the same value as the *title* metadata field.
 
-## Images
+### Images
 
-Project images must be saved in [media/news](/_pages/news).
+Project images must be saved in [media/projects](/media/projects).
 
 | Setting | Value | Notes
 | -- | -- | --
@@ -74,13 +87,13 @@ Project images must be saved in [media/news](/_pages/news).
 | Main Image Height | 500px |
 | Bottom Image Max Width | 740px |
 
-# People (Persons)
+## People (Persons)
 
 The metadata file is at [/_data/people.yml](/_data/people.yml).
 
 People pages must be saved in [_pages/people](/_pages/people), in the corresponding localized folder.
 
-## Metadata Fields
+### Metadata Fields
 
 | Field Name | Field Type | Localized | Description
 | -- | -- | -- | --
@@ -94,16 +107,16 @@ People pages must be saved in [_pages/people](/_pages/people), in the correspond
 | image | string | no | Path to the main image. This should be relative to the root folder, e.g. *media/people/sample.jpg*.
 | sort | number | no | Sort order (lower values are shown first)
 
-## Page Fields
+### Page Fields
 
 | Field Name | Field Type | Description
 | -- | -- | --
 | key | string | Unique identifier. Use the **people-** prefix. This must be equal to the *key* metadata field.
 | title | string | Use the same value as the *title* metadata field.
 
-## Images
+### Images
 
-People images must be saved in [media/people](/_pages/people).
+People images must be saved in [media/people](/media/people).
 
 | Setting | Value | Notes
 | -- | -- | --
