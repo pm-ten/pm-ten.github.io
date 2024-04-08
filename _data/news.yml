@@ -95,6 +95,46 @@
     it: PROMPT Project – KOM @ Palazzo S. Giorgio
   abstract:
     en: "Save the date for the Kick-Off Meeting in Genoa, Palazzo San Giorgio of the PROMPT project - DG ECHO UCPM."
-    it: "Importante appuntamento a Genova – Palazzo S.Giorgio per il Kick-Off Meeting del progetto europeo PROMPT - DG ECHO UCPM"
+    it: "Importante appuntamento a Genova – Palazzo S.Giorgio per il Kick-Off Meeting del progetto europeo PROMPT - DG ECHO UCPM."
   date: 2023-05-30
   image: media/news/prompt-project-kom.jpg
+- 
+key: PR-FESR
+  title:
+    en: PR FESR Liguria Region 2021-2027
+    it: PR FESR Regione Liguria 2021-2027 
+  abstract:
+    en: "Excellent result for PM_TEN with the approval of the CALIPSO, BIVIOS and EN-HERITAGE projects."
+    it: "Ottimo risultato per PM_TEN con l’approvazione dei progetti CALIPSO, BIVIOS e EN-HERITAGE."
+  date: 2023-11-08
+  image: media/news/PR-FESR.jpg
+-
+  key: PNRR-RAISE
+  title:
+    en: PNRR RAISE – Cascade funding in the framework of Robotics and AI 
+    it: PNRR RAISE – Bandi a cascata nel dominio Robotica e IA 
+  abstract:
+    en: "Another great achievement for PM_TEN with the approval of the EMC4Ports and MESSAPI projects."
+    it: "Un altro grande risultato per PM_TEN con l’approvazione dei progetti EMC4Ports e MESSAPI."
+  date: 2023-12-20
+  image: media/news/PNRR-RAISE.jpg
+-
+key: news-new-entry-decamillis
+  title:
+    en: Welcome Matilde!
+    it: Benvenuta Matilde!
+  abstract:
+    en: "We are thrilled to introduce the newest member of our team: Dr Matilde De Camillis, our new Junior Researcher."
+    it: "Siamo entusiasti di presentare il nuovo membro del nostro team: Matilde De Camillis, nel ruolo di ricercatrice junior."
+  date: 2024-02-01
+  image: media/news/new-entry-decamillis.jpg
+-
+key: news-new-entry-perasso
+  title:
+    en: Welcome Silvia!
+    it: Benvenuta Silvia!
+  abstract:
+    en: "We are thrilled to introduce the newest member of our team: Dr Silvia Perasso, our new Junior Researcher."
+    it: "Siamo entusiasti di presentare il nuovo membro del nostro team: Silvia Perasso, nel ruolo di ricercatrice junior."
+  date: 2024-03-01
+  image: media/news/new-entry-perasso.jpg
