@@ -62,7 +62,7 @@
   mail: paolo.prati@pm10-ambiente.it
   secondary_mail: prati@ge.infn.it
   image: media/people/people-prati.jpg
-  sort: 5
+  sort: 7
 - 
   key: people-mazzino
   title: Andrea Mazzino
@@ -75,7 +75,7 @@
   mail: andrea.mazzino@pm10-ambiente.it
   secondary_mail: andrea.mazzino@unige.it 
   image: media/people/people-mazzino.jpg
-  sort: 6
+  sort: 8
 - 
   key: people-massabo
   title: Dario Massabò
@@ -88,7 +88,7 @@
   mail: Dario.Massabo@pm10-ambiente.it
   secondary_mail: Massabo@ge.infn.it  
   image: media/people/people-massabo.jpg
-  sort: 7
+  sort: 9
 
 - 
   key: people-decamillis
@@ -102,7 +102,7 @@
   mail: matilde.decamillis@pm10-ambiente.it
   secondary_mail: 
   image: media/people/people-decamillis.jpg
-  sort: 8
+  sort: 5
 - 
   key: people-perasso
   title: Silvia Perasso
@@ -115,4 +115,4 @@
   mail: silvia.perasso@pm10-ambiente.it
   secondary_mail: 
   image: media/people/people-perasso.jpg
-  sort: 9
+  sort: 6
