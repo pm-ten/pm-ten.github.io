@@ -5,7 +5,7 @@
   image: media/projects/digitalab.png
   image_bottom: media/projects/digitalab_bottom.png
   type: 
-    en: "Regional Program PR FESR 2021-2027​"
+    en: "Regional Program P.R. FESR 2021-2027​"
     it: "Programma P.R. FESR LIGURIA 2021-2027​"
   partners:
       -
@@ -19,3 +19,69 @@
     en: "Digitalization of laboratory processes"
     it: "Digitalizzazione processi di laboratorio"
   sort: 1
+
+- key: project-calipso
+  title: 
+    en: CALIPSO
+    it: CALIPSO
+  image: media/projects/calipso.jpg
+  image_bottom: media/projects/digitalab_bottom.png
+  type: 
+    en: "Regional Program P.R. FESR 2021-2027​"
+    it: "Programma P.R. FESR LIGURIA 2021-2027​"
+  partners:
+      -
+          title: "PM_TEN Srl, SIGE Srl, Bayesian Estimation for Engineering Solutions Srl"
+          url: "/"
+          newtab: false
+  duration:
+    en: "March 2024 - September 2024"
+    it: "Marzo 2024 - Settembre 2024"
+  sector: 
+    en: "Security and territorial monitoring"
+    it: "Sicurezza e monitoraggio del territorio"
+  sort: 2
+
+- key: project-enheritage
+  title: 
+    en: ENHERITAGE
+    it: ENHERITAGE
+  image: media/projects/enheritage.jpg
+  image_bottom: media/projects/digitalab_bottom.png
+  type: 
+    en: "Regional Program P.R. FESR 2021-2027​"
+    it: "Programma P.R. FESR LIGURIA 2021-2027​"
+  partners:
+      -
+          title: "DARTS Engineering Srl, PM_TEN Srl, Modus Srl, A-SIGN Srl, Università degli Studi di Genova - Dipartimento di Architettura e Design"
+          url: "/"
+          newtab: false
+  duration:
+    en: "January 2024 - June 2025"
+    it: "Gennaio 2024 - Giugno 2025"
+  sector: 
+    en: "Environmental Sustainability and Circular Economy - Technologies and Materials for Environmental Sustainability and the Preservation of Historical and Cultural Heritage"
+    it: "Sostenibilità ambientale ed Economia circolare - Tecnologie e materiali per la sostenibilità ambientale e la preservazione del patrimonio storico e culturale"
+  sort: 3
+
+- key: project-bivios
+  title: 
+    en: BIVIOS
+    it: BIVIOS
+  image: media/projects/bivios.jpg
+  image_bottom: media/projects/digitalab_bottom.png
+  type: 
+    en: "Regional Program P.R. FESR 2021-2027​"
+    it: "Programma P.R. FESR LIGURIA 2021-2027​"
+  partners:
+      -
+          title: "ON AIR Srl, Consorzio TRAIN, PM_TEN Srl, SSD Outdoor Portofino, IDATA GROUP Srl"
+          url: "/"
+          newtab: false
+  duration:
+    en: "January 2024 - June 2025"
+    it: "Gennaio 2024 - Giugno 2025"
+  sector: 
+    en: "Sea weather modelling, wave and current measurements and modelling of sea level"
+    it: "Modellistica meteo-marina, misurazione e modellizzazione del moto ondoso e delle correnti e del livello del mare"
+  sort: 4
