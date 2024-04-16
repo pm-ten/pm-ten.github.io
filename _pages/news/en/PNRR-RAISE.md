@@ -1,5 +1,5 @@
 ---
-key: news-PNRR RAISE
+key: news-PNRR-RAISE
 title: PNRR RAISE – Cascade funding in the framework of Robotics and AI 
 ---
 

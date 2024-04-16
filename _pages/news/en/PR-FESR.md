@@ -1,5 +1,5 @@
 ---
-key: news-PR FESR
+key: news-PR-FESR
 title: PR FESR Liguria Region 2021-2027
 ---
 
