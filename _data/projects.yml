@@ -7,11 +7,7 @@
   type: 
     en: "Regional Program P.R. FESR 2021-2027​"
     it: "Programma P.R. FESR LIGURIA 2021-2027​"
-  partners:
-      -
-          title: "PM_TEN"
-          url: "/"
-          newtab: false
+  partners: "PM_TEN"
   duration:
     en: "November 2022 - April 2024"
     it: "Novembre 2022 - Aprile 2024"
@@ -29,11 +25,7 @@
   type: 
     en: "Regional Program P.R. FESR 2021-2027​"
     it: "Programma P.R. FESR LIGURIA 2021-2027​"
-  partners:
-      -
-          title: "PM_TEN Srl, SIGE Srl, Bayesian Estimation for Engineering Solutions Srl"
-          url: "/"
-          newtab: false
+  partners: "PM_TEN Srl, SIGE Srl, Bayesian Estimation for Engineering Solutions Srl"
   duration:
     en: "March 2024 - September 2024"
     it: "Marzo 2024 - Settembre 2024"
@@ -51,11 +43,7 @@
   type: 
     en: "Regional Program P.R. FESR 2021-2027​"
     it: "Programma P.R. FESR LIGURIA 2021-2027​"
-  partners:
-      -
-          title: "DARTS Engineering Srl, PM_TEN Srl, Modus Srl, A-SIGN Srl, Università degli Studi di Genova - Dipartimento di Architettura e Design"
-          url: "/"
-          newtab: false
+  partners: "DARTS Engineering Srl, PM_TEN Srl, Modus Srl, A-SIGN Srl, Università degli Studi di Genova - Dipartimento di Architettura e Design"
   duration:
     en: "January 2024 - June 2025"
     it: "Gennaio 2024 - Giugno 2025"
@@ -73,11 +61,7 @@
   type: 
     en: "Regional Program P.R. FESR 2021-2027​"
     it: "Programma P.R. FESR LIGURIA 2021-2027​"
-  partners:
-      -
-          title: "ON AIR Srl, Consorzio TRAIN, PM_TEN Srl, SSD Outdoor Portofino, IDATA GROUP Srl"
-          url: "/"
-          newtab: false
+  partners: "ON AIR Srl, Consorzio TRAIN, PM_TEN Srl, SSD Outdoor Portofino, IDATA GROUP Srl"
   duration:
     en: "January 2024 - June 2025"
     it: "Gennaio 2024 - Giugno 2025"

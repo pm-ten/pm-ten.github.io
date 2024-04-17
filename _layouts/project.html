@@ -30,12 +30,7 @@ layout: default
             <li><strong>{{ site.data.labels.project_type[page.language] }}</strong>: {{ project.type[page.language] }}</li>
             {%- endif -%}
             {%- if project.partners and project.partners != "" -%}
-            <li>
-              <strong>{{ site.data.labels.project_partners[page.language] }}</strong>:
-              {%- for partner in project.partners %}
-              <a href="{{partner.url}}" {%- if partner.newtab -%}target="_blank"{%- endif -%}>{{partner.title}}</a>
-              {% endfor %}
-            </li>
+            <li><strong>{{ site.data.labels.project_partners[page.language] }}</strong>: {{ project.partners }}</li>
             {%- endif -%}
             {%- if project.duration[page.language] and project.duration[page.language] != "" -%}
             <li><strong>{{ site.data.labels.project_duration[page.language] }}</strong>: {{ project.duration[page.language] }}</li>
