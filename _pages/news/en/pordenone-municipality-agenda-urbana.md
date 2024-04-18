@@ -1,6 +1,5 @@
 ---
 key: news-pordenone-municipality-agenda-urbana
-title: Pordenone Municipality - Agenda Urbana T.E.M.
 ---
 
 A monitoring system integrating smart-sensors and numerical modelling for the real-time assessment of atmospheric pollution in Pordenone Municipality area (Torre residential district).  

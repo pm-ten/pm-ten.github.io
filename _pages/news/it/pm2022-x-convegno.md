@@ -1,6 +1,5 @@
 ---
 key: news-pm2022-x-convegno
-title: PM 2022 - X Convegno sul particolato atmosferico
 ---
 
 Al via oggi a Bologna la decima edizione del convegno nazionale sul particolato atmosferico organizzato dalla IAS - Società Italiana di Aerosol. Un momento importante di confronto della comunità scientifica nazionale sul tema dell'#aerosol atmosferico in tutti i suoi aspetti.

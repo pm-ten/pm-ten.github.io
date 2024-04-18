@@ -1,6 +1,5 @@
 ---
 key: news-39-aidii-congress
-title: AIDII 39th Congress
 ---
 
 We (also) talk about carbonaceous aerosol measurements with Paolo Brotto (PM_TEN CEO/CTO) at the Congress of the Association of Industrial Hygienists to be held in Arenzano between 14 and 16 June. 

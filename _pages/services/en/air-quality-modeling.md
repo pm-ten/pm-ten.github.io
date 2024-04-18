@@ -1,6 +1,5 @@
 ---
 key: service-air-quality-modeling
-title: Air Quality Monitoring
 ---
 
 Numerical simulations performed with mathematical models are now considered one of most important tools for the air quality analysis.  We can provide a complete service in this field, where models are developed and used to produce results on statistical analysis based on historical archives of past events as far as implemented to get operational forecasting tools and evaluate hypothetical future scenarios. Parameters characterizing the service are always defined in order to completely dress on customer needs and we are able to supply for a large range of demand, starting from global scale analysis, passing through intermediate regional scale, till reaching the very local scale, in urban areas where the effects of single stack emissions as far as single road emissions can be observed.

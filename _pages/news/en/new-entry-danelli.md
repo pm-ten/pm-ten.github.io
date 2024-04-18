@@ -1,6 +1,5 @@
 ---
 key: news-new-entry-danelli
-title: Welcome Silvia!
 ---
 
 We are thrilled to introduce the newest member of our team: Dr Silvia Giulia Danelli, our new Business Development Manager. 

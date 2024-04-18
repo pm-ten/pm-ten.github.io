@@ -1,6 +1,5 @@
 ---
 key: people-massabo
-title: Dario Massabò
 ---
 
 Researcher at the University of Genoa.

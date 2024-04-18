@@ -1,6 +1,5 @@
 ---
 key: news-new-entry-danelli
-title: Benvenuta Silvia!
 ---
 
 Siamo entusiasti di presentare il nuovo membro del nostro team: la Dott.ssa Silvia Giulia Danelli, la nostra nuova Business Development Manager.

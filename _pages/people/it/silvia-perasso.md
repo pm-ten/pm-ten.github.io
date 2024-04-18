@@ -1,6 +1,5 @@
 ---
 key: people-perasso
-title: Silvia Perasso
 ---
 
 Ricercatrice Junior.

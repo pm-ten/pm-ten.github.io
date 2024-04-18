@@ -1,6 +1,5 @@
 ---
 key: people-santostefano
-title: Matteo Santostefano
 ---
 
 Software developer and IT resource. 

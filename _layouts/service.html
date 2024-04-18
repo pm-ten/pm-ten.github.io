@@ -1,10 +1,10 @@
 ---
 layout: default
+metadata_section_name: services
 ---
-{%- assign service = site.data.services | where: "key", page.key | first -%}
-{%- assign pageTitle = service.title[page.language] -%}
+{%- assign metadata = site.data[layout.metadata_section_name] | where: "key", page.key | first -%}
 {%- assign subSectionName = site.data.labels.section_title_services[page.language] -%}
-{%- include breadcrumbs.html pageTitle=pageTitle subSectionName=subSectionName subSectionUrl="#services" %}
+{%- include breadcrumbs.html subSectionName=subSectionName subSectionUrl="#services" %}
 <section id="portfolio-details" class="portfolio-details">
   <div class="container" data-aos="fade-up">
       <div class="row gy-4">        
@@ -12,7 +12,7 @@ layout: default
             {{ content }}
           </div>
           <div class="col-lg-4">
-            <img src="{{ service.image | relative_url }}" class="img-fluid" alt="">
+            <img src="{{ metadata.image | relative_url }}" class="img-fluid" alt="">
           </div>
       </div>
   </div>

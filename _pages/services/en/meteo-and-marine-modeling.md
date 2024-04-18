@@ -1,6 +1,5 @@
 ---
 key: service-meteo-and-marine-modeling
-title: Metereological and Marine Modeling
 ---
 
 Our services concerning numerical modeling of both meteorological and marine fields are relative to simulations of atmospheric dynamics and ocean dynamics (waves and currents) by using state of the art modeling tools. The service features can be designed according to specific needs. They may include simulations on scales ranging from continental to local ones (up to a few hundred meters) both for forecasting purposes and for climatological analysis and/or reconstruction of past events.

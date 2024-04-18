@@ -9,6 +9,13 @@
   icon: bi-thermometer-sun
   image: media/services/environmental-monitoring-and-analysis.jpg
   sort: 1
+  seo:
+    description: 
+      en: ""
+      it: ""
+    keywords: 
+      en: ""
+      it: ""
 - 
   key: service-air-quality-modeling
   title:

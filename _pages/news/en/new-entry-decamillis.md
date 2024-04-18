@@ -1,6 +1,5 @@
 ---
 key: news-new-entry-decamillis
-title: Welcome Matilde!
 ---
 
 We are thrilled to introduce the newest member of our team: Dr Matilde De Camillis, our new Junior Researcher. 

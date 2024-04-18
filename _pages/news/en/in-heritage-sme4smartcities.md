@@ -1,6 +1,5 @@
 ---
 key: news-in-heritage-sme4smartcities
-title: In-Heritage (within SME4SMARTCITIES project)
 ---
 
 Presented at Rolli Days the IN-HERITAGE project. 

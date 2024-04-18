@@ -1,6 +1,5 @@
 ---
 key: news-39-aidii-congress
-title: 39° Congresso AIDII
 ---
 
 Si parla (anche) delle misure di aerosol carbonioso con Paolo Brotto (Amministratore Delegato e Direttore Tecnico di PM_TEN) al Congresso dell’Associazione Degli Igienisti Industriali che si terrà ad Arenzano fra il 14 e il 16 giugno. 

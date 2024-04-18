@@ -1,6 +1,5 @@
 ---
 key: people-santostefano
-title: Matteo Santostefano
 ---
 
 Sviluppatore software e risorsa IT. 

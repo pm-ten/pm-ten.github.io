@@ -1,6 +1,5 @@
 ---
 key: service-meteo-and-marine-modeling
-title: Modellistica Meteo e Marina
 ---
 
 I nostri servizi nel campo della modellistica numerica meteorologica e marina riguardano simulazioni della dinamica atmosferica e della dinamica dell'oceano (moto ondoso e correnti marine) mediante strumenti modellistici allo stato dell'arte. Le caratteristiche del servizio possono essere dimensionate secondo le esigenze specifiche, che possono riguardare simulazioni su scale variabili da quelle continentali a quelle locali (sino a un centinaio di metri), sia per fini previsionali sia per analisi climatologiche e/o ricostruzione di eventi passati.

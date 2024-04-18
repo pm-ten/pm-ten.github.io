@@ -1,6 +1,5 @@
 ---
 key: project-calipso
-title: CALIPSO
 ---
 
 La Direttiva UE 2019/130 (recepita in Italia dal DM 11/02/2021 a modifica del Decr. Leg 81/2008) inserisce il Carbonio Elementale (EC) aerodisperso nell’elenco dei composti cancerogeni da monitorare come marker dell’esposizione dei lavoratori alle emissioni dei fumi di combustione dei motori diesel.  

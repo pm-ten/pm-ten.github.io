@@ -1,6 +1,5 @@
 ---
 key: news-new-entry-perasso
-title: Benvenuta Silvia!
 ---
 
 Continua la crescita di PM_TEN. Siamo lieti di annunciare l’arrivo di Silvia Perasso, nel ruolo di ricercatrice junior.  

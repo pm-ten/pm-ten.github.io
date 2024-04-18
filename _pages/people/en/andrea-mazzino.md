@@ -1,6 +1,5 @@
 ---
 key: people-mazzino
-title: Andrea Mazzino
 ---
 
 Full Professor in Fluid Dynamics. 

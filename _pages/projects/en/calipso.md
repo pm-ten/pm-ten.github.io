@@ -1,6 +1,5 @@
 ---
 key: project-calipso
-title: CALIPSO
 ---
 
 The EU Directive 2019/130 (transposed in Italy by DM 11/02/2021 amending Decr. Leg 81/2008) includes airborne Elemental Carbon (EC) in the list of carcinogenic compounds to be monitored as a marker of workers' exposure to diesel engine smoke emissions. 

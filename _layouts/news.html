@@ -1,9 +1,10 @@
 ---
 layout: default
+metadata_section_name: news
 ---
-{%- assign news = site.data.news | where: "key", page.key | first -%}
+{%- assign metadata = site.data[layout.metadata_section_name] | where: "key", page.key | first -%}
 {%- assign subSectionName = site.data.labels.section_title_news[page.language] -%}
-{%- include breadcrumbs.html pageTitle=page.title subSectionName=subSectionName subSectionUrl="#news" %}
+{%- include breadcrumbs.html subSectionName=subSectionName subSectionUrl="#news" %}
 <section id="blog" class="blog">
   <div class="container" data-aos="fade-up">
       <div class="row gy-4">        
@@ -11,7 +12,7 @@ layout: default
             <article class="blog-details">
               <div class="meta-top">
                 <ul>
-                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i><time datetime="{{ news.date }}">{%- include date.html date=news.date language=page.language -%}</time></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i><time datetime="{{ news.date }}">{%- include date.html date=metadata.date language=page.language -%}</time></li>
                 </ul>
               </div>
               <div class="content">
@@ -20,7 +21,7 @@ layout: default
             </article>
           </div>
           <div class="col-lg-4">
-            <img src="{{ news.image | relative_url }}" class="img-fluid" alt="">
+            <img src="{{ metadata.image | relative_url }}" class="img-fluid" alt="">
           </div>
       </div>
   </div>

@@ -1,6 +1,5 @@
 ---
 key: service-air-quality-modeling
-title: Modellistica di Qualità dell'Aria
 ---
 
 Uno dei più efficaci strumenti per la valutazione della qualità dell'aria è quello rappresentato dalla simulazione mediante modelli matematici.  La nostra proposta a riguardo prevede l'utilizzo di appositi codici sviulppati per fornire risultati sia per le analisi di tipo statistico basate sugli eventi passati sia in ottica previsionale a diverse scadenze temporali e per la valutazione di ipotetici scenari. Le caratteristiche del servizio offerto sono dimensionate sulla base delle necessità specifiche e siamo in grado di coprire una vasta gamma di esigenze che vanno dalla simulazione su scala continentale a quella regionale, sino a quella del tessuto urbano che per esempio contempla le emissioni delle singole strade o i singoli camini associati a processi di lavorazione industriale.

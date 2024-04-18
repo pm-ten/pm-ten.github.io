@@ -1,6 +1,5 @@
 ---
 key: people-caponi
-title: Lorenzo Caponi
 ---
 
 Lab Manager. 

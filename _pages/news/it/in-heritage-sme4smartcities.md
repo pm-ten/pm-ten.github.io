@@ -1,6 +1,5 @@
 ---
 key: news-in-heritage-sme4smartcities
-title: In-Heritage (within SME4SMARTCITIES project)
 ---
 
 Presentato in occasione dei Rolli Days a Genova il progetto IN-HERITAGE. 

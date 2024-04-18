@@ -1,6 +1,5 @@
 ---
 key: news-lego-qti
-title: Lego Serious Play @ QTI
 ---
 
 Understanding the insights of a starting project, going deep within a newborn team, getting full commitment to common targets: that’s building ideas with Lego® Serious Play® method.
