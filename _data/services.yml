@@ -4,8 +4,8 @@
     en: Environmental Monitoring and Analysis
     it: Monitoraggio e Analisi Ambientali
   abstract:
-    en: Our analytical services and our innovative approaches developed for environmental monitoring, with particular reference to the atmosphere matrix and air quality.
-    it: I nostri servizi analitici e i nostri approcci innovativi sviluppati per il monitoraggio ambientale, con particolare riferimento alla matrice atmosfera e alla qualità dell’aria.
+    en: Analytical services and our innovative approaches developed for environmental monitoring, with particular reference to the atmosphere matrix and air quality.
+    it: Servizi analitici ed approcci innovativi per il monitoraggio ambientale, con particolare riferimento alla matrice atmosfera e alla qualità dell’aria. 
   icon: bi-thermometer-sun
   image: media/services/environmental-monitoring-and-analysis.jpg
   sort: 1
@@ -15,8 +15,8 @@
     en: Air Quality Modeling
     it: Modellistica di Qualità dell'Aria
   abstract:
-    en: Mathematical models for statistical processing and forecasting at different time scales aimed at diagnostic studies and/or environmental impact assessment (atmospheric pollutant dispersion, odor nuisance, etc.). Services tailored to specific needs and capable of covering a wide range of requirements, ranging from continental-scale simulation to regional and urban areas.
-    it: Modelli matematici per elaborazioni di tipo statistico e previsionale a diverse scadenze temporali finalizzate a studi diagnostici e/o per la valutazione di impatto ambientale (dispersione di inquinante in atmosfera, molestia olfattiva,…).  Servizi dimensionati sulla base delle necessità specifiche e in grado di coprire una vasta gamma di esigenze che vanno dalla simulazione su scala continentale a quella regionale, sino a quella del tessuto urbano.
+    en: Mathematical models for statistical and forecasting calculations at different time scales for diagnostic studies and/or environmental impact assessment (dispersion of pollutants into the atmosphere, odour dispersion - odour nuisance). Simulations on continental to regional scale, up to the urban fabric one.
+    it: Modelli matematici per elaborazioni di tipo statistico e previsionale a diverse scadenze temporali per studi diagnostici e/o valutazione di impatto ambientale (dispersione di inquinanti in atmosfera, dispersione odori - molestie olfattive). Simulazioni su scala da continentale a regionale, fino a quella del tessuto urbano.
   icon: bi-pc-display-horizontal
   image: media/services/air-quality-modeling.jpg
   sort: 2
