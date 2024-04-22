@@ -14,7 +14,7 @@ seo:
 
 ### COMPOSITIONAL ANALYSIS OF ATMOSPHERIC PARTICULATE
 - Thermo-optical and optical analysis for the identification of carbonaceous components (Total, Organic and Elemental Carbon; TC, OC, EC);
-- Analysis for the determination of optical absorption properties and evaluation of carbon aerosol concentrations (Black and Brown Carbon; BC, BrC);
+- Analysis for the determination of optical absorption properties and evaluation of carbonaceous aerosol concentrations (Black and Brown Carbon; BC, BrC);
 - Ion chromatography;
 - Energy-dispersive X-ray fluorescence (ED-XRF).
 

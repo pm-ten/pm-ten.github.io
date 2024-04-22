@@ -9,7 +9,7 @@ key: service-air-quality-modeling
 ### ANALYSIS AND IMPLEMENTATION OF INDIVIDUAL EMISSION SOURCES
 Evaluation of single emission sources impact on the air quality and identification of main contribution using sophisticated source apportionment algorithms.
 
-### ACCIDENTAL EVENT SIMULATION
+### ACCIDENTAL EVENTS SIMULATION
 Study of the impact on air quality of accidental events causing large releases on short time scales. 
 
 ### SUPPORT ON IMPACT REDUCTION FOR PLANNED ACTIONS
