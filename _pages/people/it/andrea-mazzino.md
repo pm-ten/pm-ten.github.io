@@ -1,6 +1,5 @@
 ---
 key: people-mazzino
-title: Andrea Mazzino
 ---
 
 Professore ordinario di fluidodinamica. 

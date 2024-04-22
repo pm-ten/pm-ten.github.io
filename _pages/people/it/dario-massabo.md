@@ -1,6 +1,5 @@
 ---
 key: people-massabo
-title: Dario Massabò
 ---
 
 Ricercatore presso l'Università degli Studi di Genova.

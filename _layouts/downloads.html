@@ -2,7 +2,7 @@
 layout: default
 ---
 {%- assign subSectionName = site.data.labels.section_title_resources[page.language] -%}
-{%- include breadcrumbs.html pageTitle=page.title subSectionName=subSectionName subSectionUrl="#resources" %}
+{%- include breadcrumbs.html subSectionName=subSectionName subSectionUrl="#resources" %}
 <section class="inner-page">
     <div class="container">
         {%- for file in site.data.downloads %} 

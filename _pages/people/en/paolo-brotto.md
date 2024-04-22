@@ -1,6 +1,5 @@
 ---
 key: people-brotto
-title: Paolo Brotto
 ---
 
 CEO/CTO. 

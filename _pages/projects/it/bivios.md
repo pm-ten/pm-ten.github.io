@@ -1,6 +1,5 @@
 ---
 key: project-bivios
-title: BIVIOS
 ---
 
 Il progetto BIVIOS fornisce dati sulle variazioni dei cambiamenti ambientali negli allevamenti di bivalvi, focalizzandosi su fattori fisici come l'apporto di acque contenenti sedimenti verso gli allevamenti e i movimenti dei sedimenti del fondale marino.  

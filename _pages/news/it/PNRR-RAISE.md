@@ -1,6 +1,5 @@
 ---
 key: news-PNRR RAISE
-title: PNRR RAISE – Bandi a cascata nel dominio Robotica e IA 
 ---
 
 Pubblicata la graduatoria finale graduatoria finale per l’accesso alle agevolazioni previste dal “Bando per progetti di Ricerca Industriale e Sviluppo Sperimentale nei domini dell’Intelligenza Artificiale e della Robotica”. 

@@ -1,6 +1,5 @@
 ---
 key: project-bivios
-title: BIVIOS
 ---
 
 BIVIOS project provides data on environmental changes in bivalve farms, focusing on physical factors such as the input of sediment-containing waters to the farms and the movement of seabed sediments.   

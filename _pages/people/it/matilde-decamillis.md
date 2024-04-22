@@ -1,6 +1,5 @@
 ---
 key: people-decamillis
-title: Matilde De Camillis
 ---
 
 Ricercatrice Junior.

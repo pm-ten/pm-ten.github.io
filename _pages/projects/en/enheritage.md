@@ -1,6 +1,5 @@
 ---
 key: project-enheritage
-title: EN-HERITAGE
 ---
 
 A diagnostic and energy efficiency management platform for the preservation and use of historical buildings through digital twin.  

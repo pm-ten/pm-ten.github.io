@@ -1,9 +1,10 @@
 ---
 layout: default
+metadata_section_name: people
 ---
-{%- assign person = site.data.people | where: "key", page.key | first -%}
+{%- assign metadata = site.data[layout.metadata_section_name] | where: "key", page.key | first -%}
 {%- assign subSectionName = site.data.labels.section_title_team[page.language] -%}
-{%- include breadcrumbs.html pageTitle=person.title subSectionName=subSectionName subSectionUrl="#people" %}
+{%- include breadcrumbs.html subSectionName=subSectionName subSectionUrl="#people" %}
 <section id="portfolio-details" class="portfolio-details">
     <div class="container" data-aos="fade-up">
         <div class="row gy-4">        
@@ -11,7 +12,7 @@ layout: default
                 <div class="row">
                     <div class="col-md-4">
                         <div class="member-img">
-                            <img src="{{ person.image | relative_url }}" class="img-fluid" alt="">
+                            <img src="{{ metadata.image | relative_url }}" class="img-fluid" alt="">
                         </div>            
                     </div>
                     <div class="col-md-8">
@@ -21,25 +22,25 @@ layout: default
             </div>
             <div class="col-lg-4">
                 <div class="portfolio-info">
-                    <h3>{{ person.title }}</h3>
+                    <h3>{{ metadata.title[page.language] }}</h3>
                     <ul>
-                        {%- if person.role[page.language] and person.role[page.language] != "" -%}
-                        <li><strong>{{ site.data.labels.role[page.language] }}</strong>: {{ person.role[page.language] }}</li>
+                        {%- if metadata.role[page.language] and metadata.role[page.language] != "" -%}
+                        <li><strong>{{ site.data.labels.role[page.language] }}</strong>: {{ metadata.role[page.language] }}</li>
                         {%- endif -%}
-                        {%- if person.location and person.location != "" -%}
-                        <li><strong>{{ site.data.labels.location[page.language] }}</strong>: {{ person.location }}</li>
+                        {%- if metadata.location and metadata.location != "" -%}
+                        <li><strong>{{ site.data.labels.location[page.language] }}</strong>: {{ metadata.location }}</li>
                         {%- endif -%}
-                        {%- if person.phone and person.phone != "" -%}
-                        <li><strong>{{ site.data.labels.phone[page.language] }}</strong>: {{ person.phone }}</li>
+                        {%- if metadata.phone and metadata.phone != "" -%}
+                        <li><strong>{{ site.data.labels.phone[page.language] }}</strong>: {{ metadata.phone }}</li>
                         {%- endif -%}
-                        {%- if person.mobile and person.mobile != "" -%}
-                        <li><strong>{{ site.data.labels.mobile[page.language] }}</strong>: {{ person.mobile }}</li>
+                        {%- if metadata.mobile and metadata.mobile != "" -%}
+                        <li><strong>{{ site.data.labels.mobile[page.language] }}</strong>: {{ metadata.mobile }}</li>
                         {%- endif -%}
-                        {%- if person.mail and person.mail != "" -%}
-                        <li><strong>{{ site.data.labels.email[page.language] }}</strong>: {{ person.mail }}</li>
+                        {%- if metadata.mail and metadata.mail != "" -%}
+                        <li><strong>{{ site.data.labels.email[page.language] }}</strong>: {{ metadata.mail }}</li>
                         {%- endif -%}
-                        {%- if person.secondary_mail and person.secondary_mail != "" -%}
-                        <li><strong>{{ site.data.labels.secondary_email[page.language] }}</strong>: {{ person.secondary_mail }}</li>
+                        {%- if metadata.secondary_mail and metadata.secondary_mail != "" -%}
+                        <li><strong>{{ site.data.labels.secondary_email[page.language] }}</strong>: {{ metadata.secondary_mail }}</li>
                         {%- endif -%}
                     </ul>
                 </div>

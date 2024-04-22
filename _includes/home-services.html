@@ -1,5 +1,8 @@
 <section id="features" class="features">
   <div id="services" class="container" data-aos="fade-up">
+    <div class="section-header">
+      <h2>{{ site.data.labels.section_title_services[page.language] }}</h2>
+    </div>
     <ul class="nav nav-tabs row gy-4 d-flex">
       {%- for service in site.data.services | sort: 'sort' %}
       <li class="nav-item col-6 col-md-3">
@@ -26,6 +29,9 @@
         </div>
       </div>
       {%- endfor %}
+    </div>
+    <div class="download-banner">
+      <a class="btn align-self-start" href="{{ 'media/services/service-charter-' | append: page.language | append: '.pdf' | relative_url }}">{{ site.data.labels.services_download_service_charter[page.language] }}</a>
     </div>
   </div>
 </section>

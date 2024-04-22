@@ -1,6 +1,5 @@
 ---
 key: news-new-entry-perasso
-title: Welcome Silvia!
 ---
 
 We are thrilled to introduce the new member of our team: Silvia Perasso, in the role of Junior Researcher. 

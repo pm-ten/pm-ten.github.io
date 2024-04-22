@@ -1,6 +1,5 @@
 ---
 key: service-air-quality-modeling
-title: Air Quality Monitoring
 ---
 
 ### SIMULATION OF ATMOSPHERIC POLLUTANTS CONCENTRATIONS

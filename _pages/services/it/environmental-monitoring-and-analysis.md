@@ -1,6 +1,5 @@
 ---
 key: service-environment-monitoring-and-analysis
-title: Analisi e Monitoraggio Ambientale
 ---
 
 ### MONITORAGGIO DELLE POLVERI SOSPESE (INDOOR E OUTDOOR)

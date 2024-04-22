@@ -1,6 +1,5 @@
 ---
 key: people-danelli
-title: Silvia Giulia Danelli
 ---
 
 Business Development Manager presso PM_TEN.

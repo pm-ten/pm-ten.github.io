@@ -1,6 +1,5 @@
 ---
 key: news-PNRR-RAISE
-title: PNRR RAISE – Cascade funding in the framework of Robotics and AI 
 ---
 
 The final ranking list for access to the facilities provided by the 'Call for Industrial Research and Experimental Development Projects in the domains of Artificial Intelligence and Robotics' has been published. 

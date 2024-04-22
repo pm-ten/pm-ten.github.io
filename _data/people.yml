@@ -1,6 +1,8 @@
 - 
   key: people-brotto
-  title: Paolo Brotto
+  title: 
+    en: Paolo Brotto
+    it: Paolo Brotto
   role: 
     en: Founding Member and CEO/CTO
     it: Socio Fondatore e CEO/CTO
@@ -13,7 +15,9 @@
   sort: 1
 - 
   key: people-caponi
-  title: Lorenzo Caponi
+  title: 
+    en: Lorenzo Caponi
+    it: Lorenzo Caponi
   role: 
     en: Lab Manager
     it: Lab Manager
@@ -26,7 +30,9 @@
   sort: 2
 - 
   key: people-danelli
-  title: Silvia Giulia Danelli
+  title: 
+    en: Silvia Giulia Danelli
+    it: Silvia Giulia Danelli
   role: 
     en: Business Development Manager
     it: Business Development Manager
@@ -39,7 +45,9 @@
   sort: 3
 - 
   key: people-santostefano
-  title: Matteo Santostefano
+  title: 
+    en: Matteo Santostefano
+    it: Matteo Santostefano
   role: 
     en: Software Development - IT
     it: Sviluppatore Software - IT
@@ -52,7 +60,9 @@
   sort: 4
 - 
   key: people-prati
-  title: Paolo Prati
+  title: 
+    en: Paolo Prati
+    it: Paolo Prati
   role: 
     en: Founding Member
     it: Socio Fondatore
@@ -65,7 +75,9 @@
   sort: 7
 - 
   key: people-mazzino
-  title: Andrea Mazzino
+  title: 
+    en: Andrea Mazzino
+    it: Andrea Mazzino
   role: 
     en: Founding Member
     it: Socio Fondatore
@@ -78,7 +90,9 @@
   sort: 8
 - 
   key: people-massabo
-  title: Dario Massabò
+  title: 
+    en: Dario Massabò
+    it: Dario Massabò
   role: 
     en: Founding Member
     it: Socio Fondatore
@@ -92,7 +106,9 @@
 
 - 
   key: people-decamillis
-  title: Matilde De Camillis
+  title: 
+    en: Matilde De Camillis
+    it: Matilde De Camillis
   role: 
     en: Junior Researcher
     it: Ricercatrice Junior
@@ -105,7 +121,9 @@
   sort: 5
 - 
   key: people-perasso
-  title: Silvia Perasso
+  title: 
+    en: Silvia Perasso
+    it: Silvia Perasso
   role: 
     en: Junior Researcher
     it: Ricercatrice Junior

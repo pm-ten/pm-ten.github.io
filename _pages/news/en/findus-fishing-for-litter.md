@@ -1,6 +1,5 @@
 ---
 key: news-findus-fishing-for-litter
-title: Findus - Fishing for Litter (with Ogyre)
 ---
 
 An innovative project which takes care of the environment in line with the principles of the circular economy. 

@@ -1,6 +1,5 @@
 ---
 key: people-prati
-title: Paolo Prati
 ---
 
 Professore Ordinario di Fisica Applicata. 

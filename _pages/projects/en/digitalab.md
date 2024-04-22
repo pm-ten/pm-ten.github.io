@@ -1,6 +1,5 @@
 ---
 key: project-digitalab
-title: DigitaLab
 ---
 
 The DigitaLab project, funded by the Regional Program PR FESR 2021 - 2027 of the Liguria Region, proposes the study, development and implementation of a new digital management system for business processes, with particular reference to the services provided in the context of laboratory analysis.

@@ -1,6 +1,5 @@
 ---
 key: service-meteo-and-marine-modeling
-title: Metereological and Marine Modeling
 ---
 
 ### CLIMATOLOGICAL STUDIES AND SIMULATION OF PAST EVENTS

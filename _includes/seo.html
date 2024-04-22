@@ -1,0 +1,13 @@
+{%- assign metadata = site.data[layout.metadata_section_name] | where: "key", page.key | first -%}
+{%- assign description = page.seo.description | default: metadata.seo.description[page.language] | default: site.data.seo.description[page.language]-%}
+{%- assign keywords = page.seo.keywords | default: metadata.seo.keywords[page.language] | default: site.data.seo.keywords[page.language]-%}
+
+<meta name="description" content="{{ description }}">
+<meta name="keywords" content="{{ keywords }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}" />
+{%- assign additionalLanguages = site.data.languages | where_exp: "item", "item.slug != page.language" %}
+{%- for language in additionalLanguages %}
+  {%- assign localizedPage = site.pages | where: "key", page.key | where: "language", language.slug | first %}
+  <link rel="alternate" hreflang="{{language.slug}}" href="{{ localizedPage.url | absolute_url }}" />
+{%- endfor %}
+
