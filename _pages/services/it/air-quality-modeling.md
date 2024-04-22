@@ -4,7 +4,7 @@ title: Modellistica di Qualità dell'Aria
 ---
 
 ### SIMULAZIONE DELLA CONCENTRAZIONE DI INQUINANTI IN ATMOSFERA
-- Sviluppo e implementazione di modelli di dispersione atmosferica per lo studio di scenari emissivi 
+- Sviluppo e implementazione di modelli di dispersione atmosferica per lo studio di scenari emissivi;
 - Simulazione della dispersione di odori in atmosfera. 
 
 ### ANALISI E APPORZIONAMENTO DI SINGOLE SORGENTI EMISSIVE
