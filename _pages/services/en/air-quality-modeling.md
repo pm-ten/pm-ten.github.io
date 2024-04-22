@@ -2,19 +2,18 @@
 key: service-air-quality-modeling
 ---
 
-Numerical simulations performed with mathematical models are now considered one of most important tools for the air quality analysis.  We can provide a complete service in this field, where models are developed and used to produce results on statistical analysis based on historical archives of past events as far as implemented to get operational forecasting tools and evaluate hypothetical future scenarios. Parameters characterizing the service are always defined in order to completely dress on customer needs and we are able to supply for a large range of demand, starting from global scale analysis, passing through intermediate regional scale, till reaching the very local scale, in urban areas where the effects of single stack emissions as far as single road emissions can be observed.
+### SIMULATION OF ATMOSPHERIC POLLUTANTS CONCENTRATIONS
+- Development and implementation of atmospheric dispersion models for the study of emission scenarios;
+- Atmospheric odor dispersion simulation.
 
-### SIMULATION AND ANALYSIS OF ATMOSPHERIC POLLUTANTS CONCENTRATIONS
-Simulations of atmospheric pollutant dispersion. Different kind of emission sources including anthropogenic sources (roads, industries, area sources, …) and natural sources (dust, biogenic emissions, ...) can be considered to produce pollutant concentration maps and give an analysis of air quality in the observed area for the period of interest. Atmospheric odor dispersion simulations
+### ANALYSIS AND IMPLEMENTATION OF INDIVIDUAL EMISSION SOURCES
+Evaluation of single emission sources impact on the air quality and identification of main contribution using sophisticated source apportionment algorithms.
 
-### IMPACT ANALYSIS AND SOURCE APPORTIONMENT
-Evaluation of emission sources impact on the air quality of selected areas and identification of main contribution using sophisticated source apportionment algorithms.
-
-### ACCIDENTAL RELEASES IMPACT SIMULATIONS
-Assessment of accidental releases impact on local and non-local air quality.
+### ACCIDENTAL EVENT SIMULATION
+Study of the impact on air quality of accidental events causing large releases on short time scales. 
 
 ### SUPPORT ON IMPACT REDUCTION FOR PLANNED ACTIONS
-Assessment of environmental and infrastructural actions (planned and/or waiting for endorsement) with respect to their impact on air quality. Comparison with current regulations, and identification of possible mitigation actions. Support to institutional structures in coordination with international and transboundary policies and identification of common strategies for air quality improvement.
+Assessment of environmental and infrastructural actions, planned and/or waiting for endorsement, with respect to their impact on air quality, comparison with current regulations, and identification of specifics parameter sets for possibile mitigation actions.
 
 ### FUTURE SCENARIOS STUDY AND ANALYSIS
-Analysis of future scenarios defined based on socio-economic trend evaluation. Emissions can be projected considering both single activities evolution (expected increase/decrease, displacement actions on industrial parks, production processes change and/or renewal, …) and large-scale socio-economic effects (urban expansion, changes in commercial flows, ...).
+Analysis of possible future scenarios in the environmental context defined based on socio-economic trend evaluation (increase in production activities, relocation or modification of industrial plants, interventions in the production process, ecc.).
