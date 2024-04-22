@@ -12,7 +12,7 @@ seo:
 - Monitoring of indoor air quality (especially in industrial environment);
 - Monitoring via optical analysers of the temporal trend of airborne particles number in different size classes.
 
-### ANALYSIS OF THE COMPOSITION OF ATMOSPHERIC PARTICULATE
+### COMPOSITIONAL ANALYSIS OF ATMOSPHERIC PARTICULATE
 - Thermo-optical and optical analysis for the identification of carbonaceous components (Total, Organic and Elemental Carbon; TC, OC, EC);
 - Analysis for the determination of optical absorption properties and evaluation of carbon aerosol concentrations (Black and Brown Carbon; BC, BrC);
 - Ion chromatography;
