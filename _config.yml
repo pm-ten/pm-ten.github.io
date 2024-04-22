@@ -35,6 +35,17 @@ include: [ "_pages" ]
 defaults:
 -
   scope:
+    path: '_pages/root'
+  values:
+    permalink: ':basename'
+-
+  scope:
+    path: '_pages/home'
+  values:
+    permalink: ':basename'
+    layout: 'home'
+-
+  scope:
     path: '_pages/root/en'
   values:
     language: 'en'

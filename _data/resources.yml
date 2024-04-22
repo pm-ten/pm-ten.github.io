@@ -1,5 +1,5 @@
 -
-  key: "downloads"
+  key: "resource-downloads"
   title:
     en: Downloads
     it: Downloads
@@ -9,7 +9,7 @@
   icon: bi-file-earmark-arrow-down-fill
   sort: 1
 -
-  key: "tools"
+  key: "resource-tools"
   title:
     en: Equipment
     it: Strumenti
