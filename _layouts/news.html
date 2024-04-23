@@ -3,8 +3,8 @@ layout: default
 metadata_section_name: news
 ---
 {%- assign metadata = site.data[layout.metadata_section_name] | where: "key", page.key | first -%}
-{%- assign subSectionName = site.data.labels.section_title_news[page.language] -%}
-{%- include breadcrumbs.html subSectionName=subSectionName subSectionUrl="#news" %}
+{%- assign subSectionName = site.data.labels.section_title_news_all[page.language] -%}
+{%- include breadcrumbs.html subSectionName=subSectionName subSectionUrl="/news" %}
 <section id="blog" class="blog">
   <div class="container" data-aos="fade-up">
       <div class="row gy-4">        

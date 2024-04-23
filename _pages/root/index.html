@@ -1,4 +1,8 @@
 ---
+key: home-redirect
+title: PM_TEN
+language: en
+permalink: /
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -6,8 +10,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PM_TEN</title>
-</head>
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{ site.data.seo.description[page.language] }}">
+    <meta name="keywords" content="{{ site.data.seo.keywords[page.language] }}">
+    <link rel="canonical" href="{{ 'en' | absolute_url }}" />
+    </head>
 <body>
     <script>
         var language = (navigator.language || navigator.userLanguage).substring(0, 2).toLowerCase();

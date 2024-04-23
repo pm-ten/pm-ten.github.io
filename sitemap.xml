@@ -1,0 +1,24 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    {%- assign pages = site.pages | where: "sitemap", "true" %}
+    {%- for page in pages%}
+    <url>
+        <loc>{{ page.url | absolute_url }}</loc>
+        <lastmod>{{ page.path }}</lastmod>
+    </url>
+    {%- endfor %}
+    {%- for file in site.data.downloads %} 
+    <url>
+        <loc>{{ file.url | absolute_url }}</loc>
+        <lastmod>{{ file.url }}</lastmod>
+    </url>
+    {%- endfor %}
+    {%- for file in site.data.seo.additional_files_for_sitemap %} 
+    <url>
+        <loc>{{ file.url | absolute_url }}</loc>
+        <lastmod>{{ file.url }}</lastmod>
+    </url>
+    {%- endfor %}
+</urlset> 

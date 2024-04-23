@@ -1,12 +1,9 @@
-{%- assign metadata = site.data[layout.metadata_section_name] | where: "key", page.key | first -%}
 <!DOCTYPE html>
 <html lang="{{ page.language }}">
 
 <head>
   <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  
-  <title>{{ page.title | default: metadata.title[page.language] }}</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">  
   {% include seo.html %}
   <link rel="apple-touch-icon" sizes="120x120" href="{{ '/apple-touch-icon.png' | relative_url }}">
   <link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon-32x32.png' | relative_url }}">
@@ -42,7 +39,6 @@
   <script src="{{ 'assets/vendor/glightbox/js/glightbox.min.js' | relative_url }}"></script>
   <script src="{{ 'assets/vendor/isotope-layout/isotope.pkgd.min.js' | relative_url }}"></script>
   <script src="{{ 'assets/vendor/swiper/swiper-bundle.min.js' | relative_url }}"></script>
-  <script src="{{ 'assets/vendor/php-email-form/validate.js' | relative_url }}"></script>
   <script src="{{ 'assets/js/main.js' | relative_url }}"></script>
 </body>
 

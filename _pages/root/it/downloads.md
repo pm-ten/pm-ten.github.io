@@ -1,5 +1,5 @@
 ---
-key: resource--downloads
+key: resource-downloads
 title: Download
 layout: downloads
 ---

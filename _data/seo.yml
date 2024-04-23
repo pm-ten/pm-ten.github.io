@@ -2,5 +2,8 @@ description:
   en: Physical Methods and Technologies for Environmental Needs
   it: Physical Methods and Technologies for Environmental Needs
 keywords: 
-  en: "environmental monitoring, mathematical models, air quality, laboratory, weather forecast, marine forecast, pollutants, dispersion, eolic potential, dust, radioactive isotopes, noise, non-ionizing radiation, compositional analysis"
-  it: "monitoraggio ambientale, modelli matematici, qualità dell'aria, laboratorio, previsione metereologica, previsione marina, inquinanti, dispersione, potenziale eolico, polveri, isotopi radioattivi, rumore, radiazioni non ionizzanti, analisi composizionale"
+  en: ""
+  it: ""
+additional_files_for_sitemap:
+  - url: 'media/services/service-charter-en.pdf'
+  - url: 'media/services/service-charter-it.pdf'
