@@ -9,6 +9,7 @@ date_format: "ordinal"
 
 # Use the following plug-ins
 plugins:
+  - jekyll-redirect-from
   - jemoji # Github flavored emoji
   
 # Exclude these files from your production _site
