@@ -6,7 +6,7 @@
     <nav id="navbar" class="navbar">
       <ul>
         {%- for navLink in site.data.navigation %}
-        <li><a class="nav-link scrollto {%- if navLink.active %}active{%- endif %}" href="{{ page.language | append: navLink.url | relative_url }}">{{ navLink.title[page.language] }}</a></li>
+        <li><a class="nav-link scrollto {%- if navLink.active %}active{%- endif %}" href="{{ page.language | append: navLink.url | absolute_url }}">{{ navLink.title[page.language] }}</a></li>
         {%- endfor %}
         {%- assign additionalLanguages = site.data.languages | where_exp: "item", "item.slug != page.language" %}
         {%- for language in additionalLanguages %}
