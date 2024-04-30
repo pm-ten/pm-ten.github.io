@@ -5,5 +5,7 @@ keywords:
   en: ""
   it: ""
 additional_files_for_sitemap:
-  - url: 'media/services/service-charter-en.pdf'
-  - url: 'media/services/service-charter-it.pdf'
+  - url: 'media/services/services-brochure-en.pdf'
+  - url: 'media/services/services-brochure-it.pdf'
+  - url: 'media/services/lsp-brochure-en.pdf'
+  - url: 'media/services/lsp-brochure-it.pdf'

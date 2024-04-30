@@ -4,7 +4,7 @@
 
 <title>{{ page.title | default: metadata.title[page.language] }}</title>
 <meta name="description" content="{{ description }}">
-{%- if keywords and keywords != "" -%}
+{%- if keywords and keywords != "" %}
 <meta name="keywords" content="{{ keywords }}">
 {%- endif %}
 <link rel="canonical" href="{{ page.url | absolute_url }}" />

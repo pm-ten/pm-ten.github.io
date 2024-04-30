@@ -9,3 +9,7 @@ Support in the construction and definition of funded research projects: identifi
 
 ### LEGO(R) SERIOUS PLAY(R): DESIGN AND FACILITATING
 Design and implementation of problem-solving workshops using the Lego (r) Serious Play (r) methodology. Support and coaching of certified Lego (r) Serious Play (r) facilitator.
+
+<div class="download-banner">
+    <a class="btn align-self-start" href="/media/services/lsp-brochure-en.pdf">Download the Brochure</a>
+</div>

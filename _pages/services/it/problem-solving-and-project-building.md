@@ -9,3 +9,7 @@ Supporto nella costruzione e definizione di progetti di ricerca finanziata: iden
 
 ### WORKSHOP LEGO(R) SERIOUS PLAY(R) (DESIGN E FACILITAZIONE)
 Disegno e realizzazione di workshop di problem solving mediante la metodologia Lego(r) Serious Play(r). Supporto e affiancamento di facilitatore certificato Lego(r) Serious Play(r).
+
+<div class="download-banner">
+    <a class="btn align-self-start" href="/media/services/lsp-brochure-it.pdf">Scarica la Brochure</a>
+</div>
