@@ -48,7 +48,7 @@ jobs:
         env:
           JEKYLL_ENV: production
       - name: Update the sitemap dates
-        run: bash ${GITHUB_WORKSPACE}/scripts/update-sitemap.sh "${{ steps.pages.outputs.base_path }}/sitemap.txt" "${{ steps.pages.outputs.base_path }}/sitemap.xml"
+        run: bash ${GITHUB_WORKSPACE}/scripts/update-sitemap.sh "${GITHUB_WORKSPACE}/_site/sitemap.txt" "${GITHUB_WORKSPACE}/_site/sitemap.xml"
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v1
