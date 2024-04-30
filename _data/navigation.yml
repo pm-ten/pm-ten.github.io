@@ -8,30 +8,30 @@
   title:
     en: Services
     it: Servizi
-  url: /#services
+  url: "#services"
 -
   title:
     en: News
     it: Notizie
-  url: /#news
+  url: "#news"
 -
   title:
     en: Projects
     it: Progetti
-  url: /#projects
+  url: "#projects"
 -
   title:
     en: Resources
     it: Risorse
-  url: /#resources
+  url: "#resources"
 -
   title:
     en: About Us
     it: Chi Siamo
-  url: /#about-us
+  url: "#about-us"
 -
   title:
     en: Contacts
     it: Contatti
-  url: /#contact
+  url: "#contact"
   
