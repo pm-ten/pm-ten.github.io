@@ -25,6 +25,7 @@ exclude:
   - docs
   - .gitignore
   - .jekyll-cache/
+  - .github
 
 # Process these folders
 include: [ "_pages" ]
@@ -37,7 +38,8 @@ defaults:
   values:
     permalink: ':basename'
     type: 'root'
-    sitemap: 'true'
+    seo:
+      sitemap: 'true'
 -
   scope:
     path: '_pages/root/en'
@@ -45,7 +47,8 @@ defaults:
     language: 'en'
     permalink: 'en/:basename'
     type: 'root'
-    sitemap: 'true'
+    seo:
+      sitemap: 'true'
 -
   scope:
     path: '_pages/root/it'
@@ -53,25 +56,28 @@ defaults:
     language: 'it'
     permalink: 'it/:basename'
     type: 'root'
-    sitemap: 'true'
+    seo:
+      sitemap: 'true'
 -
   scope:
     path: '_pages/home/en'
   values:
     language: 'en'
-    permalink: ':basename'
+    permalink: 'en/'
     layout: 'home'
     type: 'root'
-    sitemap: 'true'
+    seo:
+      sitemap: 'true'
 -
   scope:
     path: '_pages/home/it'
   values:
     language: 'it'
-    permalink: ':basename'
+    permalink: 'it/'
     layout: 'home'
     type: 'root'
-    sitemap: 'true'
+    seo:
+      sitemap: 'true'
 -
   scope:
     path: '_pages/services/en'
@@ -80,7 +86,8 @@ defaults:
     language: 'en'
     permalink: 'en/services/:basename'
     type: 'service'
-    sitemap: 'true'
+    seo:
+      sitemap: 'true'
 -
   scope:
     path: '_pages/services/it'
@@ -89,7 +96,8 @@ defaults:
     language: 'it'
     permalink: 'it/servizi/:basename'
     type: 'service'
-    sitemap: 'true'
+    seo:
+      sitemap: 'true'
 -
   scope:
     path: '_pages/people/en'
@@ -98,7 +106,8 @@ defaults:
     language: 'en'
     permalink: 'en/people/:basename'
     type: 'person'
-    sitemap: 'true'
+    seo:
+      sitemap: 'true'
 -
   scope:
     path: '_pages/people/it'
@@ -107,7 +116,8 @@ defaults:
     language: 'it'
     permalink: 'it/persone/:basename'
     type: 'person'
-    sitemap: 'true'
+    seo:
+      sitemap: 'true'
 -
   scope:
     path: '_pages/news/en'
@@ -116,7 +126,8 @@ defaults:
     language: 'en'
     permalink: 'en/news/:basename'
     type: 'news'
-    sitemap: 'true'
+    seo:
+      sitemap: 'true'
 -
   scope:
     path: '_pages/news/it'
@@ -125,7 +136,8 @@ defaults:
     language: 'it'
     permalink: 'it/news/:basename'
     type: 'news'
-    sitemap: 'true'
+    seo:
+      sitemap: 'true'
 -
   scope:
     path: '_pages/projects/en'
@@ -134,7 +146,8 @@ defaults:
     language: 'en'
     permalink: 'en/projects/:basename'
     type: 'project'
-    sitemap: 'true'
+    seo:
+      sitemap: 'true'
 -
   scope:
     path: '_pages/projects/it'
@@ -143,7 +156,8 @@ defaults:
     language: 'it'
     permalink: 'it/progetti/:basename'
     type: 'project'
-    sitemap: 'true'
+    seo:
+      sitemap: 'true'
 
 encoding: "UTF-8"
 

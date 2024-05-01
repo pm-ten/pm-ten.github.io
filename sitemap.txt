@@ -1,6 +1,6 @@
 ---
 ---
-{%- assign pages = site.pages | where: "sitemap", "true" -%}
+{%- assign pages = site.pages | where_exp: "item", "item.seo.sitemap" -%}
 {%- for page in pages %}
 {{ page.path }}
 {%- endfor %}
