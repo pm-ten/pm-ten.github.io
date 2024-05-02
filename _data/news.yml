@@ -138,3 +138,13 @@
     it: "Siamo entusiasti di presentare il nuovo membro del nostro team: Silvia Perasso, nel ruolo di ricercatrice junior."
   date: 2024-03-01
   image: media/news/new-entry-perasso.jpg
+-
+  key: news-25-Aprile
+  title:
+    en: The new Global Report ILO has been published 
+    it: Pubblicato il nuovo Global Report ILO
+  abstract:
+    en: "On April 25, the new Global Report was shared by International Labour Organization."
+    it: "Il 25 aprile è stato condiviso da International Labour Organization il nuovo Global Report."
+  date: 2024-04-25
+  image: media/news/25-Aprile.png
