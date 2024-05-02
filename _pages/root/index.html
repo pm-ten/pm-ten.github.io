@@ -13,14 +13,14 @@ permalink: /
     <title>{{ page.title }}</title>
     <meta name="description" content="{{ site.data.seo.description[page.language] }}">
     <meta name="keywords" content="{{ site.data.seo.keywords[page.language] }}">
-    <link rel="canonical" href="{{ 'en' | absolute_url }}" />
+    <link rel="canonical" href="{{ 'en/' | absolute_url }}" />
     </head>
 <body>
     <script>
         var language = (navigator.language || navigator.userLanguage).substring(0, 2).toLowerCase();
         switch (language) {
-            case 'it': location.href = "/it";
-            default: location.href = "/en";
+            case 'it': location.href = "/it/";
+            default: location.href = "/en/";
         }
     </script>
 </body>

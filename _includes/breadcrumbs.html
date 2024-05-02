@@ -1,12 +1,13 @@
 {%- assign metadata = site.data[layout.metadata_section_name] | where: "key", page.key | first -%}
+{%- assign homePage = site.pages | where: "key", "home" | where: "language", page.language | first %}
 <section class="breadcrumbs">
     <div class="container">
         <div class="d-flex justify-content-between align-items-center">
         <h2>{{ page.title | default: metadata.title[page.language] }}</h2>
         <ol>
-            <li><a href="{{ page.language | relative_url }}">{{ site.data.labels.home[page.language] }}</a></li>
+            <li><a href="{{ homePage.url | relative_url }}">{{ site.data.labels.home[page.language] }}</a></li>
             {%- if include.subSectionName %}
-            <li><a href="{{ page.language | append: include.subSectionUrl | relative_url }}">{{ include.subSectionName }}</a></li>
+            <li><a href="{{ page.language | append: '/' | append: include.subSectionUrl | relative_url }}">{{ include.subSectionName }}</a></li>
             {%- endif %}
           </ol>
         </div>
