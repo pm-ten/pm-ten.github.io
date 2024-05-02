@@ -1,5 +1,5 @@
 ---
-key: news-25-Aprile-kom
+key: news-25-Aprile
 ---
 
 On April 25, the new Global Report **"Ensuring safety and health at work in changing climate"** was shared by International Labour Organization, in which it is pointed out that ongoing climate change causes extreme conditions around the world, with serious effects on the safety and health of workers:  
