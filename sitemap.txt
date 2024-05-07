@@ -1,0 +1,12 @@
+---
+---
+{%- assign pages = site.pages | where_exp: "item", "item.seo.sitemap" -%}
+{%- for page in pages %}
+{{ page.path }}
+{%- endfor %}
+{%- for file in site.data.downloads %} 
+{{ file.url }}
+{%- endfor %}
+{%- for file in site.data.seo.additional_files_for_sitemap %} 
+{{ file.url }}
+{%- endfor %}

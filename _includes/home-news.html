@@ -5,7 +5,7 @@
     </div>
     <div class="row">
       {%- assign sortedNews = site.data.news | sort: 'date' | reverse %}
-      {%- for news in sortedNews %}      
+      {%- for news in sortedNews limit:6 %}      
       {%- unless news.hideFromHomePage %}
       {%- assign newsPage = site.pages | where: "type", "news" | where: "key", news.key | where: "language", page.language | first %}
       <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
@@ -21,6 +21,9 @@
       </div>
       {%- endunless %}
       {%- endfor %}
+      <div class="see-all-news-banner">
+        <a class="btn align-center" href="{{ page.language | append: '/news'' | relative_url }}">{{ site.data.labels.news_see_all[page.language] }}</a>
+      </div>
     </div>
   </div>
 </section>

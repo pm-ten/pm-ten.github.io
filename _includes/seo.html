@@ -2,8 +2,11 @@
 {%- assign description = page.seo.description | default: metadata.seo.description[page.language] | default: site.data.seo.description[page.language]-%}
 {%- assign keywords = page.seo.keywords | default: metadata.seo.keywords[page.language] | default: site.data.seo.keywords[page.language]-%}
 
+<title>{{ page.title | default: metadata.title[page.language] }}</title>
 <meta name="description" content="{{ description }}">
+{%- if keywords and keywords != "" %}
 <meta name="keywords" content="{{ keywords }}">
+{%- endif %}
 <link rel="canonical" href="{{ page.url | absolute_url }}" />
 {%- assign additionalLanguages = site.data.languages | where_exp: "item", "item.slug != page.language" %}
 {%- for language in additionalLanguages %}

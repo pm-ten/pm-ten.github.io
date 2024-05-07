@@ -11,11 +11,11 @@
   sort: 1
   seo:
     description: 
-      en: ""
-      it: ""
+      en: Our analytical services and our innovative approaches developed for environmental monitoring, with particular reference to the atmosphere matrix and air quality.
+      it: I nostri servizi analitici e i nostri approcci innovativi sviluppati per il monitoraggio ambientale, con particolare riferimento alla matrice atmosfera e alla qualità dell’aria.
     keywords: 
-      en: ""
-      it: ""
+      en: "Environmental monitoring, Air quality, Thermo-optical analysis, total carbon, elemental carbon, organic carbon, Carbonaceous aerosol, black carbon, brown carbon, diesel exhaust, Decr. Leg. 81/2008, UE 2019/130, UE 2019/983, NIOSH-5040, EUSAAR, UNI EN 16909:2017, Receptor model, PMF, Positive Matrix Factorization, CMB, Chemical Mass Balance"
+      it: "monitoraggio ambientale, qualità dell’aria, analisi termo-ottiche, total carbon, elemental carbon, organic carbon, aerosol carbonioso, black carbon, brown carbon, emissioni gas di scarico dei motori diesel, Decr. Leg. 81/2008, UE 2019/130, UE 2019/983, NIOSH-5040, EUSAAR, UNI EN 16909:2017, modelli a recettore, PMF, Positive Matrix Factorization, CMB, Chemical Mass Balance"
 - 
   key: service-air-quality-modeling
   title:
@@ -27,6 +27,13 @@
   icon: bi-pc-display-horizontal
   image: media/services/air-quality-modeling.jpg
   sort: 2
+  seo:
+    description: 
+      en: Mathematical models for statistical processing and forecasting at different time scales aimed at diagnostic studies and/or environmental impact assessment (atmospheric pollutant dispersion, odor nuisance, etc.). Services tailored to specific needs and capable of covering a wide range of requirements, ranging from continental-scale simulation to regional and urban areas.
+      it: Modelli matematici per elaborazioni di tipo statistico e previsionale a diverse scadenze temporali finalizzate a studi diagnostici e/o per la valutazione di impatto ambientale (dispersione di inquinante in atmosfera, molestia olfattiva,…).  Servizi dimensionati sulla base delle necessità specifiche e in grado di coprire una vasta gamma di esigenze che vanno dalla simulazione su scala continentale a quella regionale, sino a quella del tessuto urbano.
+    keywords: 
+      en: "Environmental impact, Environmental Impact assessment, EIA, Atmospheric dispersion modeling, CALPUFF, CALMET, SPRAY, HYSPLIT, Sensitive receptor, Odor dispersion, source apportionment, Eulerian models, Lagrangian models, Gaussian models"
+      it: "Impatto ambientale, AUA, VIA/VAS, valutazione di impatto ambientale, Studio di impatto ambientale, Modelli di ricaduta emissioni, CALPUFF, CALMET, SPRAY, HYSPLIT, Recettori sensibili, dispersione di inquinanti in atmosfera, dispersione odori, molestie olfattive, source apportionment, Modelli euleriani, Modelli lagrangiani, Modelli gaussiani"
 - 
   key: service-meteo-and-marine-modeling
   title:
@@ -38,6 +45,13 @@
   icon: bi-pc-display-horizontal
   image: media/services/metereological-and-marine-modeling.png
   sort: 3
+  seo:
+    description: 
+      en: Numerical meteorological and marine modeling, with simulations of atmospheric dynamics and ocean dynamics (wave motion and marine currents) using state-of-the-art modeling tools. Tailored services, provided on scales ranging from continental to local (down to a hundred meters), both for forecasting purposes and for climatological analysis and/or reconstruction of past events.
+      it: Modellistica numerica meteorologica e marina, con simulazioni della dinamica atmosferica e della dinamica dell'oceano (moto ondoso e correnti marine) mediante strumenti modellistici allo stato dell'arte.  Servizi dimensionabili secondo le esigenze specifiche, su scale variabili da quelle continentali a quelle locali (sino a un centinaio di metri), sia per fini previsionali sia per analisi climatologiche e/o ricostruzione di eventi passati.
+    keywords: 
+      en: "weather and marine forecast, Large-Eddy Simulation, Wave dinamics"
+      it: "Previsioni meteo, Previsioni meteo-marine, Large-Eddy Simulation, Simulazione del moto ondoso"
 - 
   key: service-problem-solving-and-project-building
   title:
@@ -49,3 +63,10 @@
   icon: bi-bezier2
   image: media/services/problem-solving.jpg
   sort: 4
+  seo:
+    description: 
+      en: Problem solving methodologies and approaches to accompany companies in identifying critical elements and in defining intervention strategies for managing problems, from ordinary to complex.
+      it: Metodologie e approcci di problem solving per accompagnare le aziende nell’identificazione degli elementi di criticità e nella definizione di strategie di intervento per la gestione di problemi, dall’ordinario al complesso. 
+    keywords: 
+      en: "workshop Lego Serious Play, LSP, Problem solving, Design thinking, Team building, facilitator"
+      it: "workshop Lego Serious Play, LSP, Problem solving, Design thinking, Team building, facilitazione"

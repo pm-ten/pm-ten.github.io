@@ -1,0 +1,33 @@
+---
+layout: default
+---
+{%- include breadcrumbs.html %}
+<section class="inner-page">
+    <div class="container">
+        <section id="recent-blog-posts" class="recent-blog-posts">
+            <div id="news" class="container" data-aos="fade-up">
+                <div class="row">
+                    {%- assign sortedNews = site.data.news | sort: 'date' | reverse %}
+                    {%- for news in sortedNews %}
+                    {%- assign newsPage = site.pages | where: "type", "news" | where: "key", news.key | where: "language", page.language | first %}
+                    <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
+                        <div class="post-box">
+                            <div class="post-img"><img src="{{ news.image | relative_url }}" class="img-fluid" alt="">
+                            </div>
+                            <div class="meta">
+                                <span class="post-date">{%- include date.html date=news.date language=page.language
+                                    -%}</span>
+                            </div>
+                            <h3 class="post-title">{{ news.title[page.language] }}</h3>
+                            <p>{{ news.abstract[page.language] }}</p>
+                            <a href="{{ newsPage.url | relative_url }}" class="readmore stretched-link"><span>{{
+                                    site.data.labels.read_more[page.language] }}</span><i
+                                    class="bi bi-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    {%- endfor %}
+                </div>
+            </div>
+        </section>
+    </div>
+</section>

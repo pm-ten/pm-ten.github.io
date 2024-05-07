@@ -10,3 +10,7 @@ Design and implementation of problem-solving workshops using the Lego® Serious 
 
 ### PROCESS MANAGEMENT SUPPORT
 Support and analysis for the management and optimisation of laboratory processes and activities.
+
+<div class="download-banner">
+    <a class="btn align-self-start" href="/media/services/lsp-brochure-en.pdf">Download the Brochure</a>
+</div>
