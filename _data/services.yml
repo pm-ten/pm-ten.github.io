@@ -43,7 +43,7 @@
     en: Numerical meteorological and marine modeling, with simulations of atmospheric dynamics and ocean dynamics (wave motion and marine currents) using state-of-the-art modeling tools. Tailored services, provided on scales ranging from continental to local (down to a hundred meters), both for forecasting purposes and for climatological analysis and/or reconstruction of past events.
     it: Modellistica numerica meteorologica e marina, con simulazioni di dinamica atmosferica e oceanica (moto ondoso e correnti marine) mediante strumenti modellistici allo stato dell'arte dimensionabili secondo le esigenze specifiche. Servizi su scala variabile da continentale a locale (sino a un centinaio di metri), per fini previsionali e analisi climatologiche e/o ricostruzione di eventi passati. 
   icon: bi-pc-display-horizontal
-  image: media/services/metereological-and-marine-modeling.jpg
+  image: media/services/metereological-and-marine-modeling.png
   sort: 3
   seo:
     description: 
