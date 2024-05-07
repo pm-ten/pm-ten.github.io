@@ -4,6 +4,9 @@ section_title_services:
 section_title_news: 
   en: Latest News
   it: Ultime Notizie
+section_title_news_all: 
+  en: News
+  it: Notizie
 section_title_projects: 
   en: Projects
   it: Progetti
@@ -76,6 +79,9 @@ project_duration:
 project_sector:
   en: Sector
   it: Settore
-services_download_service_charter:
-  en: Download our Service Charter
-  it: Scarica la nostra Carta dei Servizi
+services_download_services_brochure:
+  en: Download our Brochure
+  it: Scarica la nostra Brochure
+news_see_all:
+  en: Read all news
+  it: Leggi tutte le news

@@ -9,9 +9,7 @@ date_format: "ordinal"
 
 # Use the following plug-ins
 plugins:
-  - jekyll-redirect-from # Set up custom redirects
-  - jekyll-seo-tag
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  #- jekyll-redirect-from
   - jemoji # Github flavored emoji
   
 # Exclude these files from your production _site
@@ -27,6 +25,7 @@ exclude:
   - docs
   - .gitignore
   - .jekyll-cache/
+  - .github
 
 # Process these folders
 include: [ "_pages" ]
@@ -35,16 +34,50 @@ include: [ "_pages" ]
 defaults:
 -
   scope:
+    path: '_pages/root'
+  values:
+    permalink: ':basename'
+    type: 'root'
+    seo:
+      sitemap: 'true'
+-
+  scope:
     path: '_pages/root/en'
   values:
     language: 'en'
     permalink: 'en/:basename'
+    type: 'root'
+    seo:
+      sitemap: 'true'
 -
   scope:
     path: '_pages/root/it'
   values:
     language: 'it'
     permalink: 'it/:basename'
+    type: 'root'
+    seo:
+      sitemap: 'true'
+-
+  scope:
+    path: '_pages/home/en'
+  values:
+    language: 'en'
+    permalink: 'en/'
+    layout: 'home'
+    type: 'root'
+    seo:
+      sitemap: 'true'
+-
+  scope:
+    path: '_pages/home/it'
+  values:
+    language: 'it'
+    permalink: 'it/'
+    layout: 'home'
+    type: 'root'
+    seo:
+      sitemap: 'true'
 -
   scope:
     path: '_pages/services/en'
@@ -53,6 +86,8 @@ defaults:
     language: 'en'
     permalink: 'en/services/:basename'
     type: 'service'
+    seo:
+      sitemap: 'true'
 -
   scope:
     path: '_pages/services/it'
@@ -61,6 +96,8 @@ defaults:
     language: 'it'
     permalink: 'it/servizi/:basename'
     type: 'service'
+    seo:
+      sitemap: 'true'
 -
   scope:
     path: '_pages/people/en'
@@ -69,6 +106,8 @@ defaults:
     language: 'en'
     permalink: 'en/people/:basename'
     type: 'person'
+    seo:
+      sitemap: 'true'
 -
   scope:
     path: '_pages/people/it'
@@ -77,6 +116,8 @@ defaults:
     language: 'it'
     permalink: 'it/persone/:basename'
     type: 'person'
+    seo:
+      sitemap: 'true'
 -
   scope:
     path: '_pages/news/en'
@@ -85,6 +126,8 @@ defaults:
     language: 'en'
     permalink: 'en/news/:basename'
     type: 'news'
+    seo:
+      sitemap: 'true'
 -
   scope:
     path: '_pages/news/it'
@@ -93,7 +136,8 @@ defaults:
     language: 'it'
     permalink: 'it/news/:basename'
     type: 'news'
-
+    seo:
+      sitemap: 'true'
 -
   scope:
     path: '_pages/projects/en'
@@ -102,6 +146,8 @@ defaults:
     language: 'en'
     permalink: 'en/projects/:basename'
     type: 'project'
+    seo:
+      sitemap: 'true'
 -
   scope:
     path: '_pages/projects/it'
@@ -110,6 +156,8 @@ defaults:
     language: 'it'
     permalink: 'it/progetti/:basename'
     type: 'project'
+    seo:
+      sitemap: 'true'
 
 encoding: "UTF-8"
 

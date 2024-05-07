@@ -1,8 +1,7 @@
 ---
-layout: inner
+key: root-privacy
 title: Privacy
-key: privacy
-permalink: /it/privacy
+layout: inner
 ---
 
 La presente Informativa sulla Privacy descrive come PM_TEN Srl (di seguito "PM_TEN", "noi" o "nostro"), con sede legale in Piazza della Vittoria, 16121 Genova e Partita IVA 02132600996, tratta e protegge i dati personali raccolti durante l'utilizzo dei nostri servizi e del nostro sito web.

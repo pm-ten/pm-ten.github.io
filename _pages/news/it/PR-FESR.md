@@ -1,5 +1,5 @@
 ---
-key: news-PR FESR
+key: news-PR-FESR
 ---
 
 Pubblicata la graduatoria finale del Bando “Supporto allo sviluppo di progetti di innovazione nelle micro, piccole e medie imprese” nell’ambito del Programma Regionale FESR 2021-2027 di Regione Liguria.

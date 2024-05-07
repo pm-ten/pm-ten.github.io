@@ -1,8 +1,5 @@
 ---
 key: service-environment-monitoring-and-analysis
-seo:
-    description: ""
-    keywords: ""
 ---
 
 ### MONITORING OF PARTICULATE MATTER (INDOOR AND OUTDOOR)
