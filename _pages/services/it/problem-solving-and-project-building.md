@@ -12,5 +12,5 @@ Disegno e realizzazione di workshop di problem solving mediante la metodologia L
 Supporto e analisi per gestione e ottimizzazione di processi e attività di laboratorio. 
 
 <div class="download-banner">
-    <a class="btn align-self-start" href="/media/services/lsp-brochure-it.pdf">Scarica la Brochure</a>
+    <a class="btn align-self-start" href="/media/services/lsp-brochure-it.pdf">Scarica la Brochure LSP</a>
 </div>
