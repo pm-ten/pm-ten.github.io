@@ -12,8 +12,8 @@ Valutazione dell’impatto di singole sorgenti emissive sulla qualità dell’ar
 ### SIMULAZIONE DI EVENTI ACCIDENTALI
 Studio dell'impatto sulla qualità dell'aria di eventi accidentali capaci di originare imponenti rilasci su brevi scale temporali.
 
-### SUPPORTO PER LA RIDUZIONE DELL'IMPATTO DI INTERVENTI PIANFICATI
+### SUPPORTO PER LA RIDUZIONE DELL'IMPATTO DI INTERVENTI PIANIFICATI
 Valutazione delle conseguenze sulla qualità dell’aria di interventi ambientali e infrastrutturali pianificati e/o in fase di attuazione, confronto con la normativa vigente e identificazione di specifici set di parametri in grado di minimizzare l’impatto ambientale. 
 
 ### STUDIO E ANALISI DI SCENARI FUTURI
-Analisi di possibili scenari di evoluzione del contesto ambientale determinati da trend socio-economici (incremento delle attività produttive, trasferimento o modifica di impianti industriali, interventi sul processo produttivo, etc.) 
+Analisi di possibili scenari di evoluzione del contesto ambientale determinati da trend socio-economici (incremento delle attività produttive, trasferimento o modifica di impianti industriali, interventi sul processo produttivo, etc.).

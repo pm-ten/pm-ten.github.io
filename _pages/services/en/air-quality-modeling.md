@@ -13,7 +13,7 @@ Evaluation of single emission sources impact on the air quality and identificati
 Study of the impact on air quality of accidental events causing large releases on short time scales. 
 
 ### SUPPORT ON IMPACT REDUCTION FOR PLANNED ACTIONS
-Assessment of environmental and infrastructural actions, planned and/or waiting for endorsement, with respect to their impact on air quality, comparison with current regulations, and identification of specifics parameter sets for possibile mitigation actions.
+Assessment of environmental and infrastructural actions, planned and/or waiting for endorsement, with respect to their impact on air quality, comparison with current regulations, and identification of specifics parameters sets for possibile mitigation actions.
 
 ### FUTURE SCENARIOS STUDY AND ANALYSIS
 Analysis of possible future scenarios in the environmental context defined based on socio-economic trend evaluation (increase in production activities, relocation or modification of industrial plants, interventions in the production process, ecc.).
