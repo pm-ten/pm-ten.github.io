@@ -37,7 +37,7 @@
 - 
   key: service-meteo-and-marine-modeling
   title:
-    en: Metereological and Marine Modeling
+    en: Meteorological and Marine Modeling
     it: Modellistica Meteo e Marina
   abstract:
     en: Numerical meteorological and marine modeling, with simulations of atmospheric dynamics and ocean dynamics (wave motion and marine currents) using state-of-the-art modeling tools. Tailored services, provided on scales ranging from continental to local (down to a hundred meters), both for forecasting purposes and for climatological analysis and/or reconstruction of past events.

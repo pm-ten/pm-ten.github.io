@@ -148,3 +148,13 @@
     it: "Il 25 aprile è stato condiviso da International Labour Organization il nuovo Global Report."
   date: 2024-04-25
   image: media/news/25-Aprile.png
+-
+  key: news-PM2024
+  title:
+    en: PM 2024 - 11th Conference on Atmospheric Particulate
+    it: PM 2024 - XI Convegno sul particolato atmosferico
+  abstract:
+    en: "From the 28th to the 31st of May, we took part in an important event for the scientific community: the IAS PM2024 conference."
+    it: "Dal 28 al 31 Maggio abbiamo partecipato all'importante appuntamento per la comunità scientifica: il convegno IAS PM2024."
+  date: 2024-05-28
+  image: media/news/PM2024.png
