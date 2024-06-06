@@ -1,5 +1,6 @@
 ---
 key: service-problem-solving-and-project-building
+title: Problem Solving e Supporto alla Progettualità
 ---
 
 ### SUPPORTO ALLA PROGETTUALITÀ FINANZIATA
