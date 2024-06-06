@@ -1,5 +1,6 @@
 ---
 key: service-problem-solving-and-project-building
+title: Problem Solving and Project Building
 ---
 
 ### PROJECT BUILDING SUPPORT
