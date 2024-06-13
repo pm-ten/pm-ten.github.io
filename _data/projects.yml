@@ -69,3 +69,39 @@
     en: "Sea weather modelling, wave and current measurements and modelling of sea level"
     it: "Modellistica meteo-marina, misurazione e modellizzazione del moto ondoso e delle correnti e del livello del mare"
   sort: 4
+
+- key: project-messapi
+  title: 
+    en: MESSAPI
+    it: MESSAPI
+  image: media/projects/messapi.png
+  image_bottom: media/projects/raise.jpg
+  type: 
+    en: "PNRR Ecosystem RAISE​"
+    it: "PNRR Ecosistema RAISE​"
+  partners: "Iplom Spa, SIGE Srl, PM_TEN Srl, Apphia Srl"
+  duration:
+    en: "March 2024 - August 2025"
+    it: "Marzo 2024 - Agosto 2025"
+  sector: 
+    en: "Security and territorial monitoring"
+    it: "Sicurezza e monitoraggio del territorio"
+  sort: 6
+
+- key: project-emc4ports
+  title: 
+    en: EMC4Ports
+    it: EMC4Ports
+  image: media/projects/emc4ports.jpg
+  image_bottom: media/projects/raise.jpg
+  type: 
+    en: "PNRR Ecosystem RAISE​"
+    it: "PNRR Ecosistema RAISE​"
+  partners: "Gruppo SIGLA S.r.l., SITEM S.r.l., PM_TEN S.r.l., Dragflow Sud S.r.l., Istituto Internazionale delle Comunicazioni"
+  duration:
+    en: "January 2024 - June 2025"
+    it: "Gennaio 2024 - Giugno 2025"
+  sector: 
+    en: "Environmental conditions (water, air) monitoring in coastal areas close to port infrastructures"
+    it: "Monitoraggio delle condizioni ambientali (acqua, aria) nelle aree costiere a ridosso delle infrastrutture portuali"
+  sort: 5
