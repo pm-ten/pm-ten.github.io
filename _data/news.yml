@@ -168,3 +168,13 @@
     it: "Si è recentemente conclusa, nell'ambito del progetto CALIPSO, un'interessante campagna sperimentale presso ChAMBRe (Chamber for Aerosol Modelling and Bio-aerosol Research), la camera di simulazione atmosferica situata presso l'INFN di Genova e gestita in collaborazione con il Laboratorio di Fisica Ambientale dell'Università di Genova."
   date: 2024-07-31
   image: media/news/carbonaceous-aerosol.jpg
+-
+  key: news-webinar-carbonaceous-aerosol
+  title:
+    en: "Webinar \"CARBONACEOUS AEROSOL IN INDOOR AND OUTDOOR ENVIRONMENTS: State of the Art and Analytical Methodologies\""
+    it: "Webinar \"L'AEROSOL CARBONIOSO IN AMBIENTI INDOOR E OUTDOOR. Stato dell'arte e metodologie analitiche\""
+  abstract:
+    en: "This event, which involved numerous colleagues and industry professionals, provided an opportunity to deepen our understanding of a class of compounds that deserve significant attention."
+    it: "Questo incontro, che ha coinvolto numerosi colleghi e professionisti del settore, è stato l'opportunità per approfondire la conoscenza di una classe di composti su cui è importante porre l'attenzione."
+  date: 2024-09-18
+  image: media/news/webinar-carbonaceous-aerosol.png
